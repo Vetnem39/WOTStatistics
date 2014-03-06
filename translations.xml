@@ -156,6 +156,9 @@
         <Item LanID="CZ">Anglie</Item>
         <Item LanID="GR">Αγγλικα</Item>
       </Field>
+      <Field Name="6" DefaultLanID="ENG">
+        <Item LanID="ENG">Japan</Item>
+      </Field>
       <Field Name="ARRAY_MONTH_FULL" DefaultLanID="ENG">
         <Item LanID="ENG">January;February;March;April;May;June;July;August;September;October;November;December</Item>
         <Item LanID="DE">Januar;Februar;März;April;Mai;Juni;Juli;August;September;Oktober;November;Dezember</Item>
@@ -548,7 +551,7 @@
       </Field>
       <Field Name="CHKBOX_SUBMITDOSSIER" DefaultLanID="ENG">
         <Item LanID="ENG">Submit dossier file to World of Tanks Performance Analyzer and Statistics Site</Item>
-        <Item LanID="DE">Dossier-Datei an World of Tanks "Performance Analyzer and Statistics"-Seite übermitteln</Item>
+        <Item LanID="DE">Dossier-Datei an vBAddict.net übermitteln</Item>
         <Item LanID="RU">Предоставить файл dossier, для анализа и сравнения результатов</Item>
         <Item LanID="PL">Wyślij plik dossier na stronę gromadzącą statystyki graczy w celu porównania wyników</Item>
         <Item LanID="SR">Pošalji Dosije fajl ka World of Tanks Performance Analzyer and Statistics Site</Item>
@@ -561,6 +564,38 @@
         <Item LanID="ES">Enviar el registro personal a págima de análisis y estadísticas de World of Tanks</Item>
         <Item LanID="CZ">Odeslat sdílený soubor na stránku statistik World of Tanks</Item>
         <Item LanID="GR">Υποβολή φακέλου αρχείου στο World of Tanks Ανάλυση απόδοσης και Στατιστικά Ιστοσελίδας</Item>
+      </Field>
+      <Field Name="CHKBOX_SUBMITDOSSIER_BATTLERESULT" DefaultLanID="ENG">
+        <Item LanID="ENG">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="DE">Dossier-Datei und Spielergebnisse an vBAddict.net übermitteln</Item>
+        <Item LanID="RU">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="PL">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="SR">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="FI">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="KR">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="FR">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="IT">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="NL">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="PT">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="ES">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="CZ">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="GR">Submit Dossier file and Battle Results to vBAddict.net</Item>
+      </Field>
+      <Field Name="CHKBOX_SUBMITDOSSIER_BATTLERESULT_REPLAY" DefaultLanID="ENG">
+        <Item LanID="ENG">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="DE">Dossier-Datei, Spielergebnisse und Replays an vBAddict.net übermitteln</Item>
+        <Item LanID="RU">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="PL">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="SR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="FI">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="KR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="FR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="IT">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="NL">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="PT">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="ES">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="CZ">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="GR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
       </Field>
       <Field Name="CHKBOX_TIERTOTAL" DefaultLanID="ENG">
         <Item LanID="ENG">Display Tier Totals</Item>
@@ -2098,6 +2133,18 @@
         <Item LanID="CZ">Přežito</Item>
         <Item LanID="GR">Επέζησες σε μάχη</Item>
       </Field>
+      <Field Name="HTML_TANKINFO_KILLBCLASS" DefaultLanID="ENG">
+        <Item LanID="ENG">Kills By Class (Combined Battle Modes)</Item>
+        <Item LanID="RU">Уничтожил по классам (Выбрать "Вид боя")</Item>
+        <Item LanID="IT">Uccisioni per Classe (Modalità di battaglia combinate)</Item>
+        <Item LanID="PT">Destruidos por Tipo (Todos os Modos de Batalha)</Item>
+      </Field>
+      <Field Name="HTML_TANKINFO_KILLS" DefaultLanID="ENG">
+        <Item LanID="ENG">Kills (Combined Battle Modes)</Item>
+        <Item LanID="RU">Уничтожил (Выбрать "Вид боя")</Item>
+        <Item LanID="IT">Uccisioni (Modalità di battaglia combinate)</Item>
+        <Item LanID="PT">Destruidos(Todos os Modos de Batalha)</Item>
+      </Field>
       <Field Name="HTML_TOTAL" DefaultLanID="ENG">
         <Item LanID="ENG">Total</Item>
         <Item LanID="DE">Gesamt</Item>
@@ -2510,6 +2557,12 @@
         <Item LanID="IT">Crea automaticamente una nuova sessione</Item>
         <Item LanID="CZ">Automaticky vytvářet novou relaci</Item>
       </Field>
+      <Field Name="STR_CAP_BATTLEMODE" DefaultLanID="ENG">
+        <Item LanID="ENG">Battle Mode</Item>
+        <Item LanID="RU">Вид боя</Item>
+        <Item LanID="IT">Modalità di battaglia</Item>
+        <Item LanID="PT">Tipo de Batalha</Item>
+      </Field>
       <Field Name="STR_CAP_CURRENTSESSION" DefaultLanID="ENG">
         <Item LanID="ENG">Current Session</Item>
         <Item LanID="RU">Текущая сессия</Item>
@@ -2527,6 +2580,11 @@
         <Item LanID="IT">Ultima {NOGAMES} Giocata</Item>
         <Item LanID="PT">Últimas {NOGAMES} Jogadas</Item>
         <Item LanID="CZ">Poslední {NOGAMES} odehraná</Item>
+      </Field>
+      <Field Name="STR_CAP_RATING" DefaultLanID="ENG">
+        <Item LanID="ENG">Rating</Item>
+        <Item LanID="RU">Рейтинг</Item>
+        <Item LanID="PT">Sistema de Classificação</Item>
       </Field>
       <Field Name="STR_CAP_RBCS" DefaultLanID="ENG">
         <Item LanID="ENG">Current Session</Item>
@@ -3555,20 +3613,20 @@
         <Item LanID="GR">Παλιό αρχείο</Item>
       </Field>
       <Field Name="STR_ONLINEANALYZER" DefaultLanID="ENG">
-        <Item LanID="ENG">Online Analyzer</Item>
-        <Item LanID="DE">Online-Analyse</Item>
-        <Item LanID="RU">Онлайн анализ</Item>
-        <Item LanID="PL">Analiza Online</Item>
-        <Item LanID="SR">Online Analyzer</Item>
-        <Item LanID="FI">Verkossa analysointi</Item>
-        <Item LanID="KR">온라인 분석</Item>
-        <Item LanID="FR">Analyse en ligne</Item>
-        <Item LanID="IT">Analizzatore Online</Item>
-        <Item LanID="NL">Online Analysering</Item>
-        <Item LanID="PT">Analisador Online</Item>
-        <Item LanID="ES">Analizador Online</Item>
-        <Item LanID="CZ">Online Analyzér</Item>
-        <Item LanID="GR">Online Analyzer</Item>
+        <Item LanID="ENG">vBAddict.net Online Analyzer</Item>
+        <Item LanID="DE">vBAddict.net Online-Analyse</Item>
+        <Item LanID="RU">vBAddict.net Онлайн анализ</Item>
+        <Item LanID="PL">vBAddict.net Analiza Online</Item>
+        <Item LanID="SR">vBAddict.net Online Analyzer</Item>
+        <Item LanID="FI">vBAddict.net Verkossa analysointi</Item>
+        <Item LanID="KR">vBAddict.net 온라인 분석</Item>
+        <Item LanID="FR">vBAddict.net Analyse en ligne</Item>
+        <Item LanID="IT">vBAddict.net Analizzatore Online</Item>
+        <Item LanID="NL">vBAddict.net Online Analysering</Item>
+        <Item LanID="PT">vBAddict.net Analisador Online</Item>
+        <Item LanID="ES">vBAddict.net Analizador Online</Item>
+        <Item LanID="CZ">vBAddict.net Online Analyzér</Item>
+        <Item LanID="GR">vBAddict.net Online Analyzer</Item>
       </Field>
       <Field Name="STR_OVERALL" DefaultLanID="ENG">
         <Item LanID="ENG">Overall</Item>
@@ -4332,32 +4390,6 @@
         <Item LanID="ES">Configuración</Item>
         <Item LanID="CZ">Nastavení</Item>
         <Item LanID="GR">Εγκατάσταση</Item>
-      </Field>
-      <Field Name="HTML_TANKINFO_KILLBCLASS" DefaultLanID="ENG">
-        <Item LanID="ENG">Kills By Class (Combined Battle Modes)</Item>
-        <Item LanID="RU">Уничтожил по классам (Выбрать "Вид боя")</Item>
-        <Item LanID="IT">Uccisioni per Classe (Modalità di battaglia combinate)</Item>
-        <Item LanID="PT">Destruidos por Tipo (Todos os Modos de Batalha)</Item>
-      </Field>
-      <Field Name="HTML_TANKINFO_KILLS" DefaultLanID="ENG">
-        <Item LanID="ENG">Kills (Combined Battle Modes)</Item>
-        <Item LanID="RU">Уничтожил (Выбрать "Вид боя")</Item>
-        <Item LanID="IT">Uccisioni (Modalità di battaglia combinate)</Item>
-        <Item LanID="PT">Destruidos(Todos os Modos de Batalha)</Item>
-      </Field>
-      <Field Name="STR_CAP_BATTLEMODE" DefaultLanID="ENG">
-        <Item LanID="ENG">Battle Mode</Item>
-        <Item LanID="RU">Вид боя</Item>
-        <Item LanID="IT">Modalità di battaglia</Item>
-        <Item LanID="PT">Tipo de Batalha</Item>
-      </Field>
-      <Field Name="STR_CAP_RATING" DefaultLanID="ENG">
-        <Item LanID="ENG">Rating</Item>
-        <Item LanID="RU">Рейтинг</Item>
-        <Item LanID="PT">Sistema de Classificação</Item>
-      </Field>
-      <Field Name="6" DefaultLanID="ENG">
-        <Item LanID="ENG">Japan</Item>
       </Field>
     </Fields>
   </Translation>
