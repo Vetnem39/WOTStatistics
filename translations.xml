@@ -549,6 +549,22 @@
         <Item LanID="ES">Mostrar los iconos de desplazmiento</Item>
         <Item LanID="CZ">Zobrazit ikony postupu</Item>
       </Field>
+      <Field Name="CHKBOX_ENABLE_VBADDICT" DefaultLanID="ENG">
+        <Item LanID="ENG">Enable uploading to vBAddict.net</Item>
+        <Item LanID="DE">Hochladen zu vBAddict.net aktivieren</Item>
+        <Item LanID="RU">Предоставить файл dossier, для анализа и сравнения результатов</Item>
+        <Item LanID="PL">Wyślij dane na stronę gromadzącą statystyki graczy w celu porównania wyników</Item>
+        <Item LanID="SR">Pošalji Dosije fajl ka World of Tanks Performance Analzyer and Statistics Site</Item>
+        <Item LanID="FI">Lähetä dossier tiedosto World of Tanks suorituskyky analysointi ja tilasto sivulle </Item>
+        <Item LanID="KR">Dossier 파일을 능률 분석 및 통계 사이트로 전송</Item>
+        <Item LanID="FR">Soumettre les dossiers et les fichiers au site World of tanks performance analyser and statistics</Item>
+        <Item LanID="IT">Sottoponi il file del dossier all'analizzatore di Prestazioni e Statistiche del sito di World of Tanks</Item>
+        <Item LanID="NL">Dossier indienen bij de 'World of Tanks Prestatie Analyze en Statistieken' website</Item>
+        <Item LanID="PT">Enviar ficheiro do dossiêr para o Analisador de Desempenho e Site de Estatísticas</Item>
+        <Item LanID="ES">Enviar el registro personal a págima de análisis y estadísticas de World of Tanks</Item>
+        <Item LanID="CZ">Odeslat sdílený soubor na stránku statistik World of Tanks</Item>
+        <Item LanID="GR">Υποβολή φακέλου αρχείου στο World of Tanks Ανάλυση απόδοσης και Στατιστικά Ιστοσελίδας</Item>
+      </Field>
       <Field Name="CHKBOX_SUBMITDOSSIER" DefaultLanID="ENG">
         <Item LanID="ENG">Submit dossier file to World of Tanks Performance Analyzer and Statistics Site</Item>
         <Item LanID="DE">Dossier-Datei an vBAddict.net übermitteln</Item>
@@ -1086,7 +1102,7 @@
         <Item LanID="GR">Ανιχθεύθηκαν</Item>
       </Field>
       <Field Name="HTML_CONT_DMGCAUSED" DefaultLanID="ENG">
-        <Item LanID="ENG">Damage Caused</Item>
+        <Item LanID="ENG">Damage Dealt</Item>
         <Item LanID="DE">Schaden verursacht</Item>
         <Item LanID="RU">Нанесённый урон</Item>
         <Item LanID="PL">Zadane Uszkodzenia</Item>
@@ -1102,7 +1118,7 @@
         <Item LanID="GR">Ζημιά που προκλήθηκε</Item>
       </Field>
       <Field Name="HTML_CONT_DMGCAUSED_00" DefaultLanID="ENG">
-        <Item LanID="ENG">Damage{htmlbreak}Caused</Item>
+        <Item LanID="ENG">Damage{htmlbreak}Dealt</Item>
         <Item LanID="DE">Schaden{htmlbreak}verursacht</Item>
         <Item LanID="RU">Нанесённый{htmlbreak}урон</Item>
         <Item LanID="PL">Zadane{htmlbreak}Uszkodzenia</Item>
@@ -1116,6 +1132,22 @@
         <Item LanID="ES">Daño{htmlbreak}causado</Item>
         <Item LanID="CZ">Způsobené{htmlbreak}poškození</Item>
         <Item LanID="GR">Ζημιά{htmlbreak}που προκλήθηκε</Item>
+      </Field>
+      <Field Name="HTML_CONT_DMGASSRADIO" DefaultLanID="ENG">
+        <Item LanID="ENG">Damage Dealt</Item>
+        <Item LanID="DE">Schaden verursacht</Item>
+      </Field>
+      <Field Name="HTML_CONT_DMGASSRADIO_00" DefaultLanID="ENG">
+        <Item LanID="ENG">Damage{htmlbreak}Assisted Radio</Item>
+        <Item LanID="DE">Schaden{htmlbreak}verursacht</Item>
+      </Field>
+      <Field Name="HTML_CONT_DMGASSTRACK" DefaultLanID="ENG">
+        <Item LanID="ENG">Damage Assisted Track</Item>
+        <Item LanID="DE">Schaden verursacht</Item>
+      </Field>
+      <Field Name="HTML_CONT_DMGASSTRACK_00" DefaultLanID="ENG">
+        <Item LanID="ENG">Damage{htmlbreak}Assisted via detracking</Item>
+        <Item LanID="DE">Schaden{htmlbreak}verursacht</Item>
       </Field>
       <Field Name="HTML_CONT_DMGRATIO" DefaultLanID="ENG">
         <Item LanID="ENG">Damage Ratio</Item>
@@ -1484,6 +1516,22 @@
         <Item LanID="CZ">Poškození{htmlbreak}Tanku{htmlbreak}Způsobeno Prům.</Item>
         <Item LanID="GR">Άρμα{htmlbreak}Ζημιά{htmlbreak}που δέχθηκε Μ.Ο.</Item>
       </Field>
+      <Field Name="HTML_DAMASSRADIO_01" DefaultLanID="ENG">
+        <Item LanID="ENG">Overall{htmlbreak}Damage Assisted Radio Avg.</Item>
+        <Item LanID="DE">Gesamt{htmlbreak}Schaden verursacht Durchschn.</Item>
+      </Field>
+      <Field Name="HTML_DAMASSRADIO_02" DefaultLanID="ENG">
+        <Item LanID="ENG">Tank{htmlbreak}Damage{htmlbreak}Assisted Radio Avg.</Item>
+        <Item LanID="DE">Panzer{htmlbreak}Schaden verursacht{htmlbreak}Durchschnitt</Item>
+      </Field>
+      <Field Name="HTML_DAMASSTRACK_01" DefaultLanID="ENG">
+        <Item LanID="ENG">Overall{htmlbreak}Damage Assisted Tracks Avg.</Item>
+        <Item LanID="DE">Gesamt{htmlbreak}Schaden verursacht Durchschn.</Item>
+      </Field>
+      <Field Name="HTML_DAMASSTRACK_02" DefaultLanID="ENG">
+        <Item LanID="ENG">Tank{htmlbreak}Damage{htmlbreak}Assisted Tracks Avg.</Item>
+        <Item LanID="DE">Panzer{htmlbreak}Schaden verursacht{htmlbreak}Durchschnitt</Item>
+      </Field>
       <Field Name="HTML_DAMRECEIV_01" DefaultLanID="ENG">
         <Item LanID="ENG">Overall{htmlbreak}Damage{htmlbreak}Received Avg.</Item>
         <Item LanID="DE">Gesamt{htmlbreak}Schaden erhalten{htmlbreak}Durchschnitt</Item>
@@ -1563,6 +1611,10 @@
         <Item LanID="CZ">Průměrný</Item>
         <Item LanID="GR">Μ.Ο.</Item>
       </Field>
+      <Field Name="HTML_EFF_VERYBAD" DefaultLanID="ENG">
+        <Item LanID="ENG">Very Bad</Item>
+        <Item LanID="DE">Sehr Schlecht</Item>
+      </Field>
       <Field Name="HTML_EFF_BAD" DefaultLanID="ENG">
         <Item LanID="ENG">Bad</Item>
         <Item LanID="DE">Schlecht</Item>
@@ -1608,6 +1660,10 @@
         <Item LanID="CZ">Dobrý</Item>
         <Item LanID="GR">Καλό</Item>
       </Field>
+      <Field Name="HTML_EFF_VERYGOOD" DefaultLanID="ENG">
+        <Item LanID="ENG">Very Good</Item>
+        <Item LanID="DE">Sehr gut</Item>
+      </Field>
       <Field Name="HTML_EFF_GREAT" DefaultLanID="ENG">
         <Item LanID="ENG">Great</Item>
         <Item LanID="DE">Sehr Gut</Item>
@@ -1625,7 +1681,7 @@
       </Field>
       <Field Name="HTML_EFF_UNICUM" DefaultLanID="ENG">
         <Item LanID="ENG">Unicum</Item>
-        <Item LanID="DE">Einmalig</Item>
+        <Item LanID="DE">Unicum</Item>
         <Item LanID="RU">Уникальный</Item>
         <Item LanID="PL">Świetnie</Item>
         <Item LanID="SR">Fenomenalno</Item>
@@ -1637,6 +1693,10 @@
         <Item LanID="ES">Único</Item>
         <Item LanID="CZ">Unikátní</Item>
         <Item LanID="GR">Φανταστικός</Item>
+      </Field>
+      <Field Name="HTML_EFF_SUPERUNICUM" DefaultLanID="ENG">
+        <Item LanID="ENG">Super Unicum</Item>
+        <Item LanID="DE">Super Unicum</Item>
       </Field>
       <Field Name="HTML_EXPER" DefaultLanID="ENG">
         <Item LanID="ENG">Experience</Item>
@@ -4173,30 +4233,22 @@
         <Item LanID="CZ">Vítězství v procentech</Item>
         <Item LanID="GR">Ποσοστό Νικών</Item>
       </Field>
-      <Field Name="STR_WN4Caption" DefaultLanID="ENG">
-        <Item LanID="ENG">WN4</Item>
-        <Item LanID="SR">WN4</Item>
-        <Item LanID="IT">WN4</Item>
-        <Item LanID="PT">WN4</Item>
-        <Item LanID="CZ">WN4</Item>
-        <Item LanID="GR">WN4</Item>
+      <Field Name="STR_BR_Caption" DefaultLanID="ENG">
+        <Item LanID="ENG">Battle Rating</Item>
+        <Item LanID="SR">Battle Rating</Item>
+        <Item LanID="IT">Battle Rating</Item>
+        <Item LanID="PT">Battle Rating</Item>
+        <Item LanID="CZ">Battle Rating</Item>
+        <Item LanID="GR">Battle Rating</Item>
       </Field>
-      <Field Name="STR_WN6Caption" DefaultLanID="ENG">
-        <Item LanID="ENG">WN6</Item>
-        <Item LanID="SR">WN6</Item>
-        <Item LanID="IT">WN6</Item>
-        <Item LanID="PT">WN6</Item>
-        <Item LanID="CZ">WN6</Item>
-        <Item LanID="GR">WN6</Item>
-      </Field>
-      <Field Name="STR_WN7Caption" DefaultLanID="ENG">
+      <Field Name="STR_WN7_Caption" DefaultLanID="ENG">
         <Item LanID="ENG">WN7</Item>
         <Item LanID="SR">WN7</Item>
         <Item LanID="PT">WN7</Item>
         <Item LanID="CZ">WN7</Item>
         <Item LanID="GR">WN7</Item>
       </Field>
-      <Field Name="STR_WN8Caption" DefaultLanID="ENG">
+      <Field Name="STR_WN8_Caption" DefaultLanID="ENG">
         <Item LanID="ENG">WN8</Item>
         <Item LanID="SR">WN8</Item>
         <Item LanID="PT">WN8</Item>
