@@ -498,7 +498,7 @@
         <Item LanID="FR">Contrôle du dossier au démarrage</Item>
         <Item LanID="IT">Controllo Dossier All'Avvio</Item>
         <Item LanID="NL">Dossier monitoren als programma start</Item>
-        <Item LanID="PT">Monotorização do Dossiêr no Início do Programa</Item>
+        <Item LanID="PT">Monotorização do Dossier no Início do Programa</Item>
         <Item LanID="ES">Iniciar el control de registros al inicio del programa</Item>
         <Item LanID="CZ">Monitorovat při spuštění</Item>
         <Item LanID="GR">Monitor Dossier κατα την εκκίνηση</Item>
@@ -560,7 +560,7 @@
         <Item LanID="FR">Soumettre les dossiers et les fichiers au site World of tanks performance analyser and statistics</Item>
         <Item LanID="IT">Sottoponi il file del dossier all'analizzatore di Prestazioni e Statistiche del sito di World of Tanks</Item>
         <Item LanID="NL">Dossier indienen bij de 'World of Tanks Prestatie Analyze en Statistieken' website</Item>
-        <Item LanID="PT">Enviar ficheiro do dossiêr para o Analisador de Desempenho e Site de Estatísticas</Item>
+        <Item LanID="PT">Enviar ficheiro do dossier para o vBAddict.net</Item>
         <Item LanID="ES">Enviar el registro personal a págima de análisis y estadísticas de World of Tanks</Item>
         <Item LanID="CZ">Odeslat sdílený soubor na stránku statistik World of Tanks</Item>
         <Item LanID="GR">Υποβολή φακέλου αρχείου στο World of Tanks Ανάλυση απόδοσης και Στατιστικά Ιστοσελίδας</Item>
@@ -576,7 +576,7 @@
         <Item LanID="FR">Soumettre les dossiers et les fichiers au site World of tanks performance analyser and statistics</Item>
         <Item LanID="IT">Sottoponi il file del dossier all'analizzatore di Prestazioni e Statistiche del sito di World of Tanks</Item>
         <Item LanID="NL">Dossier indienen bij de 'World of Tanks Prestatie Analyze en Statistieken' website</Item>
-        <Item LanID="PT">Enviar ficheiro do dossiêr para o Analisador de Desempenho e Site de Estatísticas</Item>
+        <Item LanID="PT">Enviar ficheiro do dossier para o Analisador de Desempenho e Site de Estatísticas</Item>
         <Item LanID="ES">Enviar el registro personal a págima de análisis y estadísticas de World of Tanks</Item>
         <Item LanID="CZ">Odeslat sdílený soubor na stránku statistik World of Tanks</Item>
         <Item LanID="GR">Υποβολή φακέλου αρχείου στο World of Tanks Ανάλυση απόδοσης και Στατιστικά Ιστοσελίδας</Item>
@@ -592,7 +592,7 @@
         <Item LanID="FR">Submit Dossier file and Battle Results to vBAddict.net</Item>
         <Item LanID="IT">Submit Dossier file and Battle Results to vBAddict.net</Item>
         <Item LanID="NL">Submit Dossier file and Battle Results to vBAddict.net</Item>
-        <Item LanID="PT">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="PT">Enviar dossier e resultados de batalha para vBAddict.net/Item>
         <Item LanID="ES">Submit Dossier file and Battle Results to vBAddict.net</Item>
         <Item LanID="CZ">Submit Dossier file and Battle Results to vBAddict.net</Item>
         <Item LanID="GR">Submit Dossier file and Battle Results to vBAddict.net</Item>
@@ -608,7 +608,7 @@
         <Item LanID="FR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="IT">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="NL">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
-        <Item LanID="PT">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="PT">Enviar dossier,resultados de batalha e repalys para vBAddict.net</Item>
         <Item LanID="ES">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="CZ">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="GR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
@@ -776,7 +776,7 @@
         <Item LanID="FR">Pourcentage de précision</Item>
         <Item LanID="IT">Percentuale Precisione</Item>
         <Item LanID="NL">Nauwkeurigheids percentage</Item>
-        <Item LanID="PT">Precisão (percentagem)</Item>
+        <Item LanID="PT">Precisão (%)</Item>
         <Item LanID="ES">Porcentaje de precisión</Item>
         <Item LanID="CZ">Přesnost v %</Item>
         <Item LanID="GR">Ποσοστό ακρίβειας</Item>
@@ -904,7 +904,7 @@
         <Item LanID="FR"> Points de Capture</Item>
         <Item LanID="IT">Punti{htmlbreak}Catturati</Item>
         <Item LanID="NL">Veroverings{htmlbreak}punten</Item>
-        <Item LanID="PT">Pontos{htmlbreak}de Captura</Item>
+        <Item LanID="PT">Pontos{htmlbreak}Captura</Item>
         <Item LanID="ES">Puntos de{htmlbreak}captura</Item>
         <Item LanID="CZ">Body{htmlbreak}za Obsazování</Item>
         <Item LanID="GR">Κατάληψη βάσης{htmlbreak}Πόντοι</Item>
@@ -1048,7 +1048,7 @@
         <Item LanID="FR">Points {htmlbreak} de défense </Item>
         <Item LanID="IT">Punti{htmlbreak}Difesi</Item>
         <Item LanID="NL">Verdedigings{htmlbreak}punten</Item>
-        <Item LanID="PT">Pontos{htmlbreak}de Defesa</Item>
+        <Item LanID="PT">Pontos{htmlbreak}Defesa</Item>
         <Item LanID="ES">Puntos de{htmlbreak}defensa</Item>
         <Item LanID="CZ">Body{htmlbreak}za Obranu</Item>
         <Item LanID="GR">Άμυνα βάσης{htmlbreak}Πόντοι</Item>
@@ -1080,7 +1080,7 @@
         <Item LanID="FR">Moyenne de points{htmlbreak}de défense{htmlbreak}du tank</Item>
         <Item LanID="IT">Media{htmlbreak}Punti{htmlbreak}Difesi dal Carro</Item>
         <Item LanID="NL">t.o.v. gemiddeld{htmlbreak}aantal{htmlbreak}verdedigings punten</Item>
-        <Item LanID="PT">Média{htmlbreak}Pontos{htmlbreak}Defesa.</Item>
+        <Item LanID="PT">Média{htmlbreak}Pontos{htmlbreak}Defesa</Item>
         <Item LanID="ES">Media{htmlbreak}Puntos defensa{htmlbreak} del Tanque</Item>
         <Item LanID="CZ">Body{htmlbreak}Tanku{htmlbreak}za Obranu Prům.</Item>
         <Item LanID="GR">Άρμα{htmlbreak}Άμυνα{htmlbreak}Πόντοι Μ.Ο.</Item>
@@ -1136,18 +1136,22 @@
       <Field Name="HTML_CONT_DMGASSRADIO" DefaultLanID="ENG">
         <Item LanID="ENG">Damage Dealt</Item>
         <Item LanID="DE">Schaden verursacht</Item>
+        <Item LanID="PT">Danos Provocados</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSRADIO_00" DefaultLanID="ENG">
         <Item LanID="ENG">Damage{htmlbreak}Assisted Radio</Item>
         <Item LanID="DE">Schaden{htmlbreak}verursacht</Item>
+        <Item LanID="PT">Danos{htmlbreak} (apoio rádio)</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSTRACK" DefaultLanID="ENG">
         <Item LanID="ENG">Damage Assisted Track</Item>
         <Item LanID="DE">Schaden verursacht</Item>
+        <Item LanID="PT">Danos (por bloqueio)</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSTRACK_00" DefaultLanID="ENG">
         <Item LanID="ENG">Damage{htmlbreak}Assisted via detracking</Item>
         <Item LanID="DE">Schaden{htmlbreak}verursacht</Item>
+        <Item LanID="PT">Danos{htmlbreak}(bloqueio lagartas)</Item>
       </Field>
       <Field Name="HTML_CONT_DMGRATIO" DefaultLanID="ENG">
         <Item LanID="ENG">Damage Ratio</Item>
@@ -1272,7 +1276,7 @@
         <Item LanID="FR">Précision</Item>
         <Item LanID="IT">Precisione</Item>
         <Item LanID="NL">Nauwkeurigheid</Item>
-        <Item LanID="PT">Precisão de Disparos</Item>
+        <Item LanID="PT">Precisão Disparos</Item>
         <Item LanID="ES">Precisión</Item>
         <Item LanID="CZ">Přesnost</Item>
         <Item LanID="GR">Ακρίβεια</Item>
@@ -1287,7 +1291,7 @@
         <Item LanID="FR">Taux{htmlbreak}de coup au but</Item>
         <Item LanID="IT">Coeff.{htmlbreak}Colpi a Segno</Item>
         <Item LanID="NL">Percentage{htmlbreak}treffers</Item>
-        <Item LanID="PT">Porcentagem{htmlbreak}de Hits</Item>
+        <Item LanID="PT">Percentagem{htmlbreak}de Hits</Item>
         <Item LanID="ES">Media{htmlbreak}de aciertos</Item>
         <Item LanID="CZ">Poměr{htmlbreak}Zásahů</Item>
         <Item LanID="GR">Επιτυχημένων βολών{htmlbreak}Λόγος</Item>
@@ -1303,7 +1307,7 @@
         <Item LanID="FR">Ecart avec{htmlbreak}la moy.{htmlbreak}de coup au but</Item>
         <Item LanID="IT">Diff.{htmlbreak}Media{htmlbreak}Colpi a Segno</Item>
         <Item LanID="NL">Algeheel percentage{htmlbreak}treffers</Item>
-        <Item LanID="PT">Média{htmlbreak}Global{htmlbreak}Hits.</Item>
+        <Item LanID="PT">Média{htmlbreak}Global{htmlbreak}Hits</Item>
         <Item LanID="ES">Media Global{htmlbreak}de tiros{htmlbreak}acertados</Item>
         <Item LanID="CZ">Celkový{htmlbreak}poměr zásahů{htmlbreak}Prům.</Item>
         <Item LanID="GR">Σύνολοl{htmlbreak}Επιτυχημένων{htmlbreak}βολών Μ.Ο.</Item>
@@ -1319,7 +1323,7 @@
         <Item LanID="FR">Taux moyen{htmlbreak}de coup au but{htmlbreak}du tank</Item>
         <Item LanID="IT">Media{htmlbreak}Colpi a Segno{htmlbreak}Carro</Item>
         <Item LanID="NL">t.o.v. gemiddeld{htmlbreak}percentage treffers</Item>
-        <Item LanID="PT">Porcentagem{htmlbreak}Médio{htmlbreak}de Hits</Item>
+        <Item LanID="PT">Percentagem{htmlbreak}Médio{htmlbreak}de Hits</Item>
         <Item LanID="ES">Tasa Media{htmlbreak}de acierto{htmlbreak}del tanque</Item>
         <Item LanID="CZ">Poměr{htmlbreak}Zásahu{htmlbreak}Tanku Prům.</Item>
         <Item LanID="GR">Άρμα{htmlbreak}Επιτ. βολές{htmlbreak}Λόγος Μ.Ο.</Item>
@@ -1399,7 +1403,7 @@
         <Item LanID="FR">Pourcentage de survie</Item>
         <Item LanID="IT">Percentuale Sopravvivenza</Item>
         <Item LanID="NL">Overlevings percentage</Item>
-        <Item LanID="PT">Percentagem de Sobrevivência</Item>
+        <Item LanID="PT">Sobrevivência (%)</Item>
         <Item LanID="ES">Porcentaje de sobrevividos</Item>
         <Item LanID="CZ">Přežití v %</Item>
         <Item LanID="GR">Ποσοστό Επιβίωσης</Item>
@@ -1479,7 +1483,7 @@
         <Item LanID="FR">Pourcentage de victoire</Item>
         <Item LanID="IT">Percentuale Vittorie</Item>
         <Item LanID="NL">Winst percentage</Item>
-        <Item LanID="PT">Percentagem de Victórias</Item>
+        <Item LanID="PT">Victórias (%)</Item>
         <Item LanID="ES">Porcentaje de victorias</Item>
         <Item LanID="CZ">Vítězství v %</Item>
         <Item LanID="GR">Ποσοστό Νικών</Item>
@@ -1519,18 +1523,22 @@
       <Field Name="HTML_DAMASSRADIO_01" DefaultLanID="ENG">
         <Item LanID="ENG">Overall{htmlbreak}Damage Assisted Radio Avg.</Item>
         <Item LanID="DE">Gesamt{htmlbreak}Schaden verursacht Durchschn.</Item>
+        <Item LanID="PT">Total{htmlbreak}Dano Bloq.{htmlbreak}Lagartas</Item>
       </Field>
       <Field Name="HTML_DAMASSRADIO_02" DefaultLanID="ENG">
         <Item LanID="ENG">Tank{htmlbreak}Damage{htmlbreak}Assisted Radio Avg.</Item>
         <Item LanID="DE">Panzer{htmlbreak}Schaden verursacht{htmlbreak}Durchschnitt</Item>
+        <Item LanID="PT">Média Tanque{htmlbreak}Dano Bloq.{htmlbreak}Lagartas</Item>
       </Field>
       <Field Name="HTML_DAMASSTRACK_01" DefaultLanID="ENG">
         <Item LanID="ENG">Overall{htmlbreak}Damage Assisted Tracks Avg.</Item>
         <Item LanID="DE">Gesamt{htmlbreak}Schaden verursacht Durchschn.</Item>
+        <Item LanID="PT">Total{htmlbreak}Dano Bloq.{htmlbreak}Lagartas</Item>
       </Field>
       <Field Name="HTML_DAMASSTRACK_02" DefaultLanID="ENG">
         <Item LanID="ENG">Tank{htmlbreak}Damage{htmlbreak}Assisted Tracks Avg.</Item>
         <Item LanID="DE">Panzer{htmlbreak}Schaden verursacht{htmlbreak}Durchschnitt</Item>
+        <Item LanID="PT">Média Tanque{htmlbreak}Dano Bloq.{htmlbreak}Lagartas</Item>
       </Field>
       <Field Name="HTML_DAMRECEIV_01" DefaultLanID="ENG">
         <Item LanID="ENG">Overall{htmlbreak}Damage{htmlbreak}Received Avg.</Item>
@@ -1614,6 +1622,7 @@
       <Field Name="HTML_EFF_VERYBAD" DefaultLanID="ENG">
         <Item LanID="ENG">Very Bad</Item>
         <Item LanID="DE">Sehr Schlecht</Item>
+         <Item LanID="PT">Muito Mau</Item>
       </Field>
       <Field Name="HTML_EFF_BAD" DefaultLanID="ENG">
         <Item LanID="ENG">Bad</Item>
@@ -1663,6 +1672,7 @@
       <Field Name="HTML_EFF_VERYGOOD" DefaultLanID="ENG">
         <Item LanID="ENG">Very Good</Item>
         <Item LanID="DE">Sehr gut</Item>
+        <Item LanID="PT">Muito Bom</Item>
       </Field>
       <Field Name="HTML_EFF_GREAT" DefaultLanID="ENG">
         <Item LanID="ENG">Great</Item>
@@ -1674,7 +1684,7 @@
         <Item LanID="FR">Excellent</Item>
         <Item LanID="IT">Bravo</Item>
         <Item LanID="NL">Voortreffelijk</Item>
-        <Item LanID="PT">Muito Bom</Item>
+        <Item LanID="PT">Excelente</Item>
         <Item LanID="ES">Excelente</Item>
         <Item LanID="CZ">Skvělý</Item>
         <Item LanID="GR">Θαυμάσια</Item>
@@ -1689,7 +1699,7 @@
         <Item LanID="FR">Exceptionnel</Item>
         <Item LanID="IT">Unico</Item>
         <Item LanID="NL">Unicum</Item>
-        <Item LanID="PT">Excelente</Item>
+        <Item LanID="PT">Único</Item>
         <Item LanID="ES">Único</Item>
         <Item LanID="CZ">Unikátní</Item>
         <Item LanID="GR">Φανταστικός</Item>
@@ -1697,6 +1707,7 @@
       <Field Name="HTML_EFF_SUPERUNICUM" DefaultLanID="ENG">
         <Item LanID="ENG">Super Unicum</Item>
         <Item LanID="DE">Super Unicum</Item>
+        <Item LanID="PT">Super Único</Item>
       </Field>
       <Field Name="HTML_EXPER" DefaultLanID="ENG">
         <Item LanID="ENG">Experience</Item>
@@ -1836,7 +1847,7 @@
         <Item LanID="FR">Delta</Item>
         <Item LanID="IT">Differenza</Item>
         <Item LanID="NL">Verschil</Item>
-        <Item LanID="PT">Delta</Item>
+        <Item LanID="PT">Dif.</Item>
         <Item LanID="ES">Diferencia</Item>
         <Item LanID="CZ">Delta</Item>
         <Item LanID="GR">Δέλτα</Item>
@@ -2044,7 +2055,7 @@
         <Item LanID="FR">Coups au but</Item>
         <Item LanID="IT">Colpi a Segno</Item>
         <Item LanID="NL">Treffers</Item>
-        <Item LanID="PT">Hits</Item>
+        <Item LanID="PT">Tiros acertados</Item>
         <Item LanID="ES">Tiros acertados</Item>
         <Item LanID="CZ">Zásahy</Item>
         <Item LanID="GR">Επιτυχημένες βολές</Item>
@@ -2929,7 +2940,7 @@
         <Item LanID="FR">Actuel</Item>
         <Item LanID="IT">Attuale</Item>
         <Item LanID="NL">Huidig</Item>
-        <Item LanID="PT">Corrente</Item>
+        <Item LanID="PT">Atual</Item>
         <Item LanID="ES">Actual</Item>
         <Item LanID="CZ">Současné</Item>
         <Item LanID="GR">Ισχύων</Item>
@@ -3111,7 +3122,7 @@
         <Item LanID="FR">Détail HTML:</Item>
         <Item LanID="IT">Dettaglio HTML :</Item>
         <Item LanID="NL">HTML Details :</Item>
-        <Item LanID="PT">Detalhe do HTML:</Item>
+        <Item LanID="PT">Resto do texto:</Item>
         <Item LanID="ES">Detalles HTML :</Item>
         <Item LanID="CZ">HTML Detail :</Item>
         <Item LanID="GR">HTML Detail :</Item>
@@ -3236,7 +3247,7 @@
         <Item LanID="FR">Fichier du dossier</Item>
         <Item LanID="IT"> File Dossier</Item>
         <Item LanID="NL">Dossier bestand</Item>
-        <Item LanID="PT">Arquivo do Dossiêr</Item>
+        <Item LanID="PT">Arquivo do Dossier</Item>
         <Item LanID="ES">Fichero de informe</Item>
         <Item LanID="CZ">Dossier soubor</Item>
         <Item LanID="GR">Φάκελλος αρχείου</Item>
@@ -3246,6 +3257,7 @@
         <Item LanID="DE">Unterstützung</Item>
         <Item LanID="SR">Get Support</Item>
         <Item LanID="IT">Get Support</Item>
+        <Item LanID="PT">Pedir Ajuda</Item>
         <Item LanID="CZ">Get Support</Item>
       </Field>
       <Field Name="STR_EXITNOTIFY" DefaultLanID="ENG">
@@ -3365,7 +3377,7 @@
         <Item LanID="PL">Formuła Obliczeń</Item>
         <Item LanID="SR">Rejting formula</Item>
         <Item LanID="IT">Formula Valutazione :</Item>
-        <Item LanID="PT">Sistema de classificação</Item>
+        <Item LanID="PT">Sistema de Classificação</Item>
         <Item LanID="CZ">Vzorec hodnocení</Item>
         <Item LanID="GR">Φόρμουλα αξιολόγησης</Item>
       </Field>
@@ -3412,7 +3424,7 @@
         <Item LanID="FR">Titre HTML:</Item>
         <Item LanID="IT">Intestazione HTML :</Item>
         <Item LanID="NL">HTML Aanhef :</Item>
-        <Item LanID="PT">Posição de HTML:</Item>
+        <Item LanID="PT">Títulos e Cabeçalhos:</Item>
         <Item LanID="ES">Cabecera HTML :</Item>
         <Item LanID="CZ">HTML záhlaví :</Item>
         <Item LanID="GR">HTML Τομέας</Item>
@@ -3644,7 +3656,7 @@
         <Item LanID="FR">Nouveau dossier</Item>
         <Item LanID="IT">Nuovo Dossier</Item>
         <Item LanID="NL">Nieuw dossier</Item>
-        <Item LanID="PT">Novo Dossiêr</Item>
+        <Item LanID="PT">Novo Dossier</Item>
         <Item LanID="ES">Nuevo Registro</Item>
         <Item LanID="CZ">Konec</Item>
         <Item LanID="GR">Νέο αρχείο</Item>
@@ -3667,7 +3679,7 @@
         <Item LanID="FR">Ancien dossier</Item>
         <Item LanID="IT">Vecchio Dossier</Item>
         <Item LanID="NL">Oud Dossier</Item>
-        <Item LanID="PT">Dossiêr Antigo</Item>
+        <Item LanID="PT">Dossier Antigo</Item>
         <Item LanID="ES">Registro Viejo</Item>
         <Item LanID="CZ">Starý Dossier</Item>
         <Item LanID="GR">Παλιό αρχείο</Item>
@@ -4014,7 +4026,7 @@
         <Item LanID="FR">Configurer</Item>
         <Item LanID="IT">Impostazioni</Item>
         <Item LanID="NL">Instellingen</Item>
-        <Item LanID="PT">Instalação</Item>
+        <Item LanID="PT">Configuração</Item>
         <Item LanID="ES">Configurar</Item>
         <Item LanID="CZ">Nastavení</Item>
         <Item LanID="GR">Εγκατάσταση</Item>
@@ -4229,7 +4241,7 @@
         <Item LanID="PL">Procent Zwycięstw</Item>
         <Item LanID="SR">Procenat pobeda</Item>
         <Item LanID="IT">Percentuale Vittorie</Item>
-        <Item LanID="PT">Percentagem de vitórias</Item>
+        <Item LanID="PT">Vitórias (%)</Item>
         <Item LanID="CZ">Vítězství v procentech</Item>
         <Item LanID="GR">Ποσοστό Νικών</Item>
       </Field>
@@ -4237,7 +4249,7 @@
         <Item LanID="ENG">Battle Rating</Item>
         <Item LanID="SR">Battle Rating</Item>
         <Item LanID="IT">Battle Rating</Item>
-        <Item LanID="PT">Battle Rating</Item>
+        <Item LanID="PT">Rating{htmlbreak}Batalha</Item>
         <Item LanID="CZ">Battle Rating</Item>
         <Item LanID="GR">Battle Rating</Item>
       </Field>
@@ -4259,6 +4271,7 @@
         <Item LanID="ENG">vBAddict Website</Item>
         <Item LanID="SR">vBAddict Website</Item>
         <Item LanID="IT">Sito web di vBAddict</Item>
+        <Item LanID="PT">Site vBAddict</Item>
         <Item LanID="CZ">vBAddict Internet. stránka</Item>
       </Field>
       <Field Name="STR_YEAR" DefaultLanID="ENG">
