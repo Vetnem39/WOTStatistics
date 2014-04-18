@@ -4216,19 +4216,19 @@
         <Item LanID="GR">Έκδοση</Item>
       </Field>
       <Field Name="STR_VERSIONNOTIFY" DefaultLanID="ENG">
-        <Item LanID="ENG">New update available ({version}).{winbreak}Would you like to open the web page www.wotstatistics.net</Item>
-        <Item LanID="DE">Ein neues Update ist verfügbar ({version}).{winbreak}Wollen Sie die Website www.wotstatistics.net öffnen?</Item>
-        <Item LanID="RU">Доступна новая версия ({version}).{winbreak}Вы хотите, открыть сайт www.wotstatistics.net чтобы её скачать?</Item>
-        <Item LanID="PL">Dostępna nowa wersja ({version}).{winbreak}Czy chcesz otworzyć stronę www.wotstatistics.net w celu pobrania?</Item>
-        <Item LanID="SR">Nova verzija je dostupna ({version}).{winbreak}Da li želite da otvorite stranicu www.wotstatistics.net</Item>
-        <Item LanID="FI">Päivitys saatavilla ({version}).{winbreak}Haluatko ladata sen sivulta www.wotstatistics.net</Item>
-        <Item LanID="KR">새로운 버전 ({version})이 있습니다. {winbreak}www.wotstatistics.net 페이지로 이동하시겠습니까?</Item>
-        <Item LanID="FR">La nouvelle version est disponible({version}).{winbreak}Voulez vous ouvrir le site web www.wotstatistics.net ?</Item>
-        <Item LanID="IT">Nuovo aggiornamento disponibile ({version}).{winbreak}Desideri aprire la pagina web www.wotstatistics.net</Item>
-        <Item LanID="NL">Nieuwe update beschikbaar ({version}).{winbreak}Wilt u de web pagina www.wotstatistics.net openen</Item>
-        <Item LanID="PT">Nova versão disponível({version}).{winbreak} Quer abrir a página web www.wotstatistics.net</Item>
-        <Item LanID="ES">Nueva versión disponible ({version}).{winbreak}Debería ir a la página web www.wotstatistics.net</Item>
-        <Item LanID="CZ">Nová aktualizace k dispozici ({version}).{winbreak}Chcete otevřít stránku www.wotstatistics.net</Item>
+        <Item LanID="ENG">New update available ({version}).{winbreak}Would you like to open the web page www.vbaddict.net/wotstatistics</Item>
+        <Item LanID="DE">Ein neues Update ist verfügbar ({version}).{winbreak}Wollen Sie die Website www.vbaddict.net/wotstatistics öffnen?</Item>
+        <Item LanID="RU">Доступна новая версия ({version}).{winbreak}Вы хотите, открыть сайт www.vbaddict.net/wotstatistics чтобы её скачать?</Item>
+        <Item LanID="PL">Dostępna nowa wersja ({version}).{winbreak}Czy chcesz otworzyć stronę www.vbaddict.net/wotstatistics w celu pobrania?</Item>
+        <Item LanID="SR">Nova verzija je dostupna ({version}).{winbreak}Da li želite da otvorite stranicu www.vbaddict.net/wotstatistics</Item>
+        <Item LanID="FI">Päivitys saatavilla ({version}).{winbreak}Haluatko ladata sen sivulta www.vbaddict.net/wotstatistics</Item>
+        <Item LanID="KR">새로운 버전 ({version})이 있습니다. {winbreak}www.vbaddict.net/wotstatistics 페이지로 이동하시겠습니까?</Item>
+        <Item LanID="FR">La nouvelle version est disponible({version}).{winbreak}Voulez vous ouvrir le site web www.vbaddict.net/wotstatistics ?</Item>
+        <Item LanID="IT">Nuovo aggiornamento disponibile ({version}).{winbreak}Desideri aprire la pagina web www.vbaddict.net/wotstatistics</Item>
+        <Item LanID="NL">Nieuwe update beschikbaar ({version}).{winbreak}Wilt u de web pagina www.vbaddict.net/wotstatistics openen</Item>
+        <Item LanID="PT">Nova versão disponível({version}).{winbreak} Quer abrir a página web www.vbaddict.net/wotstatistics</Item>
+        <Item LanID="ES">Nueva versión disponible ({version}).{winbreak}Debería ir a la página web www.vbaddict.net/wotstatistics</Item>
+        <Item LanID="CZ">Nová aktualizace k dispozici ({version}).{winbreak}Chcete otevřít stránku www.vbaddict.net/wotstatistics</Item>
         <Item LanID="GR">Νέα έκδοση διαθέσιμη ({version}).{winbreak}Θέλετε να ανοίξετε την ιστοσελίδα www.saais.co.za</Item>
       </Field>
       <Field Name="STR_WATCHFILE" DefaultLanID="ENG">
