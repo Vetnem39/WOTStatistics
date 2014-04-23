@@ -1136,25 +1136,25 @@
         <Item LanID="GR">Ζημιά{htmlbreak}που προκλήθηκε</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSRADIO" DefaultLanID="ENG">
-        <Item LanID="ENG">Damage Dealt</Item>
+        <Item LanID="ENG">Damage Assisted via Radio </Item>
         <Item LanID="DE">Schaden durch Aufklärung</Item>
         <Item LanID="PL">Zadane Uszkodzenia</Item>
         <Item LanID="PT">Danos Provocados</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSRADIO_00" DefaultLanID="ENG">
-        <Item LanID="ENG">Damage{htmlbreak}Assisted Radio</Item>
+        <Item LanID="ENG">Damage Assisted{htmlbreak}via Radio</Item>
         <Item LanID="DE">Schaden{htmlbreak}durch Aufklärung</Item>
         <Item LanID="PL">Uszkodzenia{htmlbreak}Dzięki Wykryciu</Item>
         <Item LanID="PT">Danos{htmlbreak} (apoio rádio)</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSTRACK" DefaultLanID="ENG">
-        <Item LanID="ENG">Damage Assisted Track</Item>
+        <Item LanID="ENG">Damage Assisted via detracking</Item>
         <Item LanID="DE">Schaden durch Kettenabschuss</Item>
         <Item LanID="PL">Uszkodzenia Dzięki Unieruchomieniu Pojazdu</Item>
         <Item LanID="PT">Danos (por bloqueio)</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSTRACK_00" DefaultLanID="ENG">
-        <Item LanID="ENG">Damage{htmlbreak}Assisted via detracking</Item>
+        <Item LanID="ENG">Damage Assisted{htmlbreak}via detracking</Item>
         <Item LanID="DE">Schaden{htmlbreak}durch Kettenabschuss</Item>
         <Item LanID="PL">Uszkodzenia{htmlbreak}Dzięki Unieruchomieniu Pojazdu</Item>
         <Item LanID="PT">Danos{htmlbreak}(bloqueio lagartas)</Item>
