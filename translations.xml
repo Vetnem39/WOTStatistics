@@ -100,7 +100,7 @@
         <Item LanID="SR">Američki</Item>
         <Item LanID="FI">Jenkki</Item>
         <Item LanID="KR">미국</Item>
-        <Item LanID="FR">USA</Item>
+        <Item LanID="FR">U.S.A.</Item>
         <Item LanID="IT">USA</Item>
         <Item LanID="NL">VS</Item>
         <Item LanID="PT">EUA</Item>
@@ -296,7 +296,7 @@
         <Item LanID="SR">Izmeni</Item>
         <Item LanID="FI">Muokkaa</Item>
         <Item LanID="KR">수정</Item>
-        <Item LanID="FR">Editer</Item>
+        <Item LanID="FR">Modifier</Item>
         <Item LanID="IT">Modifica</Item>
         <Item LanID="NL">Bewerken</Item>
         <Item LanID="PT">Editar</Item>
@@ -375,7 +375,7 @@
         <Item LanID="PL">Zezwól na Udostępnianie w Dropbox/Sky Drive/Google Drive</Item>
         <Item LanID="SR">Koristi Dropbox/Sky Drive/Google Drive share</Item>
         <Item LanID="KR">Dropbox/Sky Drive/Google Drive 공유 사용</Item>
-        <Item LanID="FR">Autoriser partage par Dropbox/Sky Drive/Google Drive</Item>
+        <Item LanID="FR">Autoriser le partage par Dropbox/Sky Drive/Google Drive</Item>
         <Item LanID="IT">Consenti Condivisione con Dropbox/Sky Drive/Google Drive</Item>
         <Item LanID="NL">Sta dossier deling via DropBox/SkyDrive/Google Drive toe</Item>
         <Item LanID="PT">Permitir o compartilhamento em Dropbox/Sky Drive/Google Drive</Item>
@@ -391,7 +391,7 @@
         <Item LanID="SR">Koristi Dosije sharing</Item>
         <Item LanID="FI">Salli Dossier jako</Item>
         <Item LanID="KR">Dossier 공유 사용</Item>
-        <Item LanID="FR">Autoriser le partage du dossier</Item>
+        <Item LanID="FR">Autoriser le partage de dossier</Item>
         <Item LanID="IT">Consenti la Condivisione del Dossier</Item>
         <Item LanID="NL">Sta Dossier delen toe</Item>
         <Item LanID="PT">Permitir o Compartilhamento do Dossiêr</Item>
@@ -481,12 +481,11 @@
       </Field>
       <Field Name="CHKBOX_MINIMIZETOTRAY" DefaultLanID="ENG">
         <Item LanID="ENG">Minimize to System Tray on close</Item>
-		<Item LanID="FR">Minimiser dans la zone de notification à la fermeture</Item>
         <Item LanID="DE">Beim Schliessen in den Infobereich unten rechts minimieren</Item>
         <Item LanID="RU">Свернуть в трей при закрытии</Item>
         <Item LanID="PL">Minimalizuj do zasobnika przy zamknięciu</Item>
         <Item LanID="SR">Minimiziraj u System Tray pri zatvaranju</Item>
-        <Item LanID="IT">Alla chiusura riduci a icona nella barra di sistema</Item>
+		<Item LanID="FR">Réduire l'application dans la barre des tâches à la fermeture</Item>        <Item LanID="IT">Alla chiusura riduci a icona nella barra di sistema</Item>
         <Item LanID="PT">Minimizar para a Barra de Sistema ao Sair</Item>
         <Item LanID="CZ">Při zavření Minimalizovat na Systémovou lištu</Item>
       </Field>
@@ -560,7 +559,7 @@
         <Item LanID="SR">Pošalji Dosije fajl ka World of Tanks Performance Analzyer and Statistics Site</Item>
         <Item LanID="FI">Lähetä dossier tiedosto World of Tanks suorituskyky analysointi ja tilasto sivulle </Item>
         <Item LanID="KR">Dossier 파일을 능률 분석 및 통계 사이트로 전송</Item>
-        <Item LanID="FR">Soumettre les dossiers et les fichiers au site World of Tanks performance analyser and statistics</Item>
+        <Item LanID="FR">Soumettre les dossiers et les fichiers au site World of tanks performance analyser and statistics</Item>
         <Item LanID="IT">Sottoponi il file del dossier all'analizzatore di Prestazioni e Statistiche del sito di World of Tanks</Item>
         <Item LanID="NL">Dossier indienen bij de 'World of Tanks Prestatie Analyze en Statistieken' website</Item>
         <Item LanID="PT">Enviar ficheiro do dossier para o vBAddict.net</Item>
@@ -576,7 +575,7 @@
         <Item LanID="SR">Pošalji Dosije fajl ka World of Tanks Performance Analzyer and Statistics Site</Item>
         <Item LanID="FI">Lähetä dossier tiedosto World of Tanks suorituskyky analysointi ja tilasto sivulle </Item>
         <Item LanID="KR">Dossier 파일을 능률 분석 및 통계 사이트로 전송</Item>
-        <Item LanID="FR">Soumettre les dossiers et les fichiers au site World of Tanks performance analyser and statistics</Item>
+        <Item LanID="FR">Soumettre les dossiers et les fichiers au site World of tanks performance analyser and statistics</Item>
         <Item LanID="IT">Sottoponi il file del dossier all'analizzatore di Prestazioni e Statistiche del sito di World of Tanks</Item>
         <Item LanID="NL">Dossier indienen bij de 'World of Tanks Prestatie Analyze en Statistieken' website</Item>
         <Item LanID="PT">Enviar ficheiro do dossier para o Analisador de Desempenho e Site de Estatísticas</Item>
@@ -592,7 +591,7 @@
         <Item LanID="SR">Submit Dossier file and Battle Results to vBAddict.net</Item>
         <Item LanID="FI">Submit Dossier file and Battle Results to vBAddict.net</Item>
         <Item LanID="KR">Submit Dossier file and Battle Results to vBAddict.net</Item>
-        <Item LanID="FR">Submit Dossier file and Battle Results to vBAddict.net</Item>
+        <Item LanID="FR">Soumettre le Dossier de Fichier et les résultats de batailles au site vBAddict.net</Item>
         <Item LanID="IT">Submit Dossier file and Battle Results to vBAddict.net</Item>
         <Item LanID="NL">Submit Dossier file and Battle Results to vBAddict.net</Item>
         <Item LanID="PT">Enviar dossier e resultados de batalha para vBAddict.net</Item>
@@ -608,7 +607,7 @@
         <Item LanID="SR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="FI">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="KR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
-        <Item LanID="FR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
+        <Item LanID="FR">Soumettre le Dossier de Fichier,les résultats de batailles et replays au site vBAddict.net</Item>
         <Item LanID="IT">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="NL">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="PT">Enviar dossier,resultados de batalha e repalys para vBAddict.net</Item>
@@ -656,7 +655,7 @@
         <Item LanID="SR">Teški tenk</Item>
         <Item LanID="FI">Raskas tankki</Item>
         <Item LanID="KR">중전차</Item>
-        <Item LanID="FR">Char lourd</Item>
+        <Item LanID="FR">Char Lourd</Item>
         <Item LanID="IT">Carro Pesante</Item>
         <Item LanID="NL">Zware tank</Item>
         <Item LanID="PT">Tanque Pesado</Item>
@@ -667,10 +666,10 @@
       <Field Name="HT_SHORT" DefaultLanID="ENG">
         <Item LanID="ENG">HT</Item>
         <Item LanID="DE">HT</Item>
-		<Item LanID="FR">HT</Item>
         <Item LanID="RU">ТТ</Item>
         <Item LanID="PL">HТ</Item>
         <Item LanID="SR">TT</Item>
+		<Item LanID="FR">HT</Item>
         <Item LanID="IT">HT</Item>
         <Item LanID="PT">TP</Item>
       </Field>
@@ -762,7 +761,7 @@
         <Item LanID="SR">Prosečno otkriveno</Item>
         <Item LanID="FI">Keskimääräinen havaitseminen</Item>
         <Item LanID="KR">평균 적 발견 수</Item>
-        <Item LanID="FR">Moyenne de détection</Item>
+        <Item LanID="FR">Moyenne de chars détectés</Item>
         <Item LanID="IT">Media Avvistati</Item>
         <Item LanID="NL">Gemiddeld ontdekt</Item>
         <Item LanID="PT">Média de Detectados</Item>
@@ -858,7 +857,7 @@
         <Item LanID="SR">Prosečno iskustvo po bici</Item>
         <Item LanID="FI">Keskimääräinen kokemus taistelusta</Item>
         <Item LanID="KR">전투 당 평균 경험치</Item>
-        <Item LanID="FR">Moyenne d'expérience par bataille</Item>
+        <Item LanID="FR">Moyenne d'experience par bataille</Item>
         <Item LanID="IT">Esperienza Media per Battaglia</Item>
         <Item LanID="NL">Gemiddelde ervaring per gevecht</Item>
         <Item LanID="PT">Experiência Média por Batalha</Item>
@@ -906,7 +905,7 @@
         <Item LanID="SR">Poeni za{htmlbreak}zauzimanje</Item>
         <Item LanID="FI">Valloitus{htmlbreak}Pisteet</Item>
         <Item LanID="KR">점령{htmlbreak}점수</Item>
-        <Item LanID="FR">Points de{htmlbreak}Capture</Item>
+        <Item LanID="FR">Points de Capture</Item>
         <Item LanID="IT">Punti{htmlbreak}Catturati</Item>
         <Item LanID="NL">Veroverings{htmlbreak}punten</Item>
         <Item LanID="PT">Pontos{htmlbreak}Captura</Item>
@@ -922,8 +921,8 @@
         <Item LanID="SR">Ukupan prosek zauzimanja baze</Item>
         <Item LanID="FI">Keskimääräinen valloitus pisteet.</Item>
         <Item LanID="KR">전체{htmlbreak}점령점수{htmlbreak}평균</Item>
-        <Item LanID="FR">Ecart avec{htmlbreak} la moy.{htmlbreak}des points{htmlbreak}de capture</Item>
-        <Item LanID="IT">Diff. Media Punti Catturati</Item>
+		<Item LanID="FR">Moyenne{htmlbreak}Globale{htmlbreak}des points{htmlbreak}de capture</Item>        
+		<Item LanID="IT">Diff. Media Punti Catturati</Item>
         <Item LanID="NL">Algehele veroveringspunten per gevecht</Item>
         <Item LanID="PT">Média Pontos de Captura</Item>
         <Item LanID="ES">Media Global{htmlbreak}de puntos{htmlbreak}de captura</Item>
@@ -938,7 +937,7 @@
         <Item LanID="SR">Prosek{htmlbreak}zauzimanja baze{htmlbreak}po tenku</Item>
         <Item LanID="FI">Tankki{htmlbreak}Valoitettu{htmlbreak}Keskimääräiset pisteet.</Item>
         <Item LanID="KR">전차별{htmlbreak}점령점수{htmlbreak}평균</Item>
-        <Item LanID="FR">Moy. de points {htmlbreak}de capture{htmlbreak}du tank</Item>
+        <Item LanID="FR">Moy. de points {htmlbreak}de capture{htmlbreak}du char</Item>
         <Item LanID="IT">Media{htmlbreak}Punti{htmlbreak}Catturati dal Carro</Item>
         <Item LanID="NL">t.o.v. gemiddeld{htmlbreak}aantal{htmlbreak}veroverings punten</Item>
         <Item LanID="PT">Média{htmlbreak}Pontos{htmlbreak}Captura</Item>
@@ -1050,7 +1049,7 @@
         <Item LanID="SR">Odbrambeni{htmlbreak}poeni</Item>
         <Item LanID="FI">Puolustus{htmlbreak}Pisteet</Item>
         <Item LanID="KR">방어{htmlbreak}점수</Item>
-        <Item LanID="FR">Points {htmlbreak} de défense </Item>
+        <Item LanID="FR">Points{htmlbreak}de défense </Item>
         <Item LanID="IT">Punti{htmlbreak}Difesi</Item>
         <Item LanID="NL">Verdedigings{htmlbreak}punten</Item>
         <Item LanID="PT">Pontos{htmlbreak}Defesa</Item>
@@ -1066,7 +1065,7 @@
         <Item LanID="SR">Ukupan prosek{htmlbreak}odbrambenih{htmlbreak}poena</Item>
         <Item LanID="FI">Yhteensä{htmlbreak}Defence{htmlbreak}Keskimääräinen tulos.</Item>
         <Item LanID="KR">전체{htmlbreak}방어{htmlbreak}점수{htmlbreak}평균</Item>
-        <Item LanID="FR">Ecart avec{htmlbreak}la moy.{htmlbreak}des points{htmlbreak} de défense</Item>
+        <Item LanID="FR">Moyenne{htmlbreak}Globale{htmlbreak}des points{htmlbreak}de défense</Item>
         <Item LanID="IT">Diff.{htmlbreak}Media{htmlbreak}Punti Difesi</Item>
         <Item LanID="NL">Algeheel gemiddelde{htmlbreak}verdedigings punten</Item>
         <Item LanID="PT">Média{htmlbreak}Global de Pontos{htmlbreak}de Defesa</Item>
@@ -1082,7 +1081,7 @@
         <Item LanID="SR">Prosek{htmlbreak}odbrambenih{htmlbreak}poena po tenku</Item>
         <Item LanID="FI">Tankki{htmlbreak}Puolustus{htmlbreak}Keskimääräiset pisteet.</Item>
         <Item LanID="KR">전차별{htmlbreak}방어점수{htmlbreak}평균</Item>
-        <Item LanID="FR">Moyenne de points{htmlbreak}de défense{htmlbreak}du tank</Item>
+        <Item LanID="FR">Moyenne de points{htmlbreak}de défense{htmlbreak}du char</Item>
         <Item LanID="IT">Media{htmlbreak}Punti{htmlbreak}Difesi dal Carro</Item>
         <Item LanID="NL">t.o.v. gemiddeld{htmlbreak}aantal{htmlbreak}verdedigings punten</Item>
         <Item LanID="PT">Média{htmlbreak}Pontos{htmlbreak}Defesa</Item>
@@ -1130,7 +1129,7 @@
         <Item LanID="SR">Naneta{htmlbreak}šteta</Item>
         <Item LanID="FI">Vahinko{htmlbreak}Aiheutettu</Item>
         <Item LanID="KR">입힌{htmlbreak}데미지</Item>
-        <Item LanID="FR">Dommages{htmlbreak} causés</Item>
+        <Item LanID="FR">Dommages{htmlbreak}causés</Item>
         <Item LanID="IT">Danno{htmlbreak}Causato</Item>
         <Item LanID="NL">Toegebrachte{htmlbreak}schade</Item>
         <Item LanID="PT">Danos{htmlbreak}Provocados</Item>
@@ -1141,29 +1140,29 @@
       <Field Name="HTML_CONT_DMGASSRADIO" DefaultLanID="ENG">
         <Item LanID="ENG">Damage Assisted via Radio </Item>
         <Item LanID="DE">Schaden durch Aufklärung</Item>
-		<Item LanID="FR">Dommages assistés par Radio </Item>
         <Item LanID="PL">Zadane Uszkodzenia</Item>
+		<Item LanID="FR">Dommages par Assistance Radio</Item>
         <Item LanID="PT">Danos Provocados</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSRADIO_00" DefaultLanID="ENG">
         <Item LanID="ENG">Damage Assisted{htmlbreak}via Radio</Item>
         <Item LanID="DE">Schaden{htmlbreak}durch Aufklärung</Item>
-		<Item LanID="FR">Dommages assistés{htmlbreak}par Radio</Item>
         <Item LanID="PL">Uszkodzenia{htmlbreak}Dzięki Wykryciu</Item>
+		<Item LanID="FR">Dommages par{htmlbreak}Assistance Radio</Item>
         <Item LanID="PT">Danos{htmlbreak} (apoio rádio)</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSTRACK" DefaultLanID="ENG">
         <Item LanID="ENG">Damage Assisted via detracking</Item>
         <Item LanID="DE">Schaden durch Kettenabschuss</Item>
-		<Item LanID="FR">Dommages assistés par chenilles</Item>
         <Item LanID="PL">Uszkodzenia Dzięki Unieruchomieniu Pojazdu</Item>
+		<Item LanID="FR">Dommages par Déchenillage</Item>
         <Item LanID="PT">Danos (por bloqueio)</Item>
       </Field>
       <Field Name="HTML_CONT_DMGASSTRACK_00" DefaultLanID="ENG">
         <Item LanID="ENG">Damage Assisted{htmlbreak}via detracking</Item>
         <Item LanID="DE">Schaden{htmlbreak}durch Kettenabschuss</Item>
-		<Item LanID="FR">Dommages assistés{htmlbreak}par chenilles</Item>
         <Item LanID="PL">Uszkodzenia{htmlbreak}Dzięki Unieruchomieniu Pojazdu</Item>
+		<Item LanID="FR">Dommages{htmlbreak}par Déchenillage</Item>
         <Item LanID="PT">Danos{htmlbreak}(bloqueio lagartas)</Item>
       </Field>
       <Field Name="HTML_CONT_DMGRATIO" DefaultLanID="ENG">
@@ -1317,7 +1316,7 @@
         <Item LanID="SR">Ukupan{htmlbreak}procenat{htmlbreak}pogodaka</Item>
         <Item LanID="FI">Yhteensä{htmlbreak}Osuma{htmlbreak}Keskimääräinen suhde.</Item>
         <Item LanID="KR">전체{htmlbreak}명중률{htmlbreak}평균</Item>
-        <Item LanID="FR">Ecart avec{htmlbreak}la moy.{htmlbreak}de coups au but</Item>
+        <Item LanID="FR">Moyenne{htmlbreak}Globale{htmlbreak}de coups au but</Item>
         <Item LanID="IT">Diff.{htmlbreak}Media{htmlbreak}Colpi a Segno</Item>
         <Item LanID="NL">Algeheel percentage{htmlbreak}treffers</Item>
         <Item LanID="PT">Média{htmlbreak}Global{htmlbreak}Hits</Item>
@@ -1333,7 +1332,7 @@
         <Item LanID="SR">Prosečan{htmlbreak}procenat pogodaka{htmlbreak}po tenku</Item>
         <Item LanID="FI">Tankki{htmlbreak}Osuma{htmlbreak}Keskimääräinen suhde.</Item>
         <Item LanID="KR">전차별{htmlbreak}명중률{htmlbreak}평균</Item>
-        <Item LanID="FR">Taux moyen{htmlbreak}de coups au but{htmlbreak}du tank</Item>
+        <Item LanID="FR">Taux moyen{htmlbreak}de coup au but{htmlbreak}du char</Item>
         <Item LanID="IT">Media{htmlbreak}Colpi a Segno{htmlbreak}Carro</Item>
         <Item LanID="NL">t.o.v. gemiddeld{htmlbreak}percentage treffers</Item>
         <Item LanID="PT">Percentagem{htmlbreak}Médio{htmlbreak}de Hits</Item>
@@ -1429,7 +1428,7 @@
         <Item LanID="SR">Ukupno vreme borbe</Item>
         <Item LanID="FI">Taistelu aika yhteensä</Item>
         <Item LanID="KR">총 전투 시간</Item>
-        <Item LanID="FR">Durée de bataille totale</Item>
+        <Item LanID="FR">Durée de bataille total</Item>
         <Item LanID="IT">Tempo Totale di Battaglia</Item>
         <Item LanID="NL">Totale gevechtsduur</Item>
         <Item LanID="PT">Tempo Total das Batalhas</Item>
@@ -1509,7 +1508,7 @@
         <Item LanID="SR">Ukupan prosek{htmlbreak}nanete štete</Item>
         <Item LanID="FI">Yhteensä{htmlbreak}Keskimääräinen vahinko.</Item>
         <Item LanID="KR">전체{htmlbreak}데미지{htmlbreak}평균</Item>
-        <Item LanID="FR">Ecart moy.{htmlbreak}des dommages causés</Item>
+        <Item LanID="FR">Moyenne{htmlbreak}Globale{htmlbreak}des dommages causés</Item>
         <Item LanID="IT">Diff.{htmlbreak}Media Danni Causati</Item>
         <Item LanID="NL">Algeheel gemiddelde{htmlbreak}toegebrachte schade</Item>
         <Item LanID="PT">Média Global{htmlbreak}Danos</Item>
@@ -1525,7 +1524,7 @@
         <Item LanID="SR">Prosečna{htmlbreak}naneta šteta{htmlbreak}po tenku</Item>
         <Item LanID="FI">Tankki{htmlbreak}Vahinko{htmlbreak}Keskimäärin aiheutettu.</Item>
         <Item LanID="KR">전차별{htmlbreak}데미지{htmlbreak}평균</Item>
-        <Item LanID="FR">Moyenne{htmlbreak}dommages{htmlbreak}causés tank</Item>
+        <Item LanID="FR">Moyenne{htmlbreak}des dommages{htmlbreak}causés par le char</Item>
         <Item LanID="IT">Media{htmlbreak}Danno{htmlbreak}Causato dal Carro</Item>
         <Item LanID="NL">t.o.v. gemiddeld{htmlbreak}toegebrachte schade</Item>
         <Item LanID="PT">Média{htmlbreak}Dano{htmlbreak}Provocado</Item>
@@ -1535,30 +1534,30 @@
       </Field>
       <Field Name="HTML_DAMASSRADIO_01" DefaultLanID="ENG">
         <Item LanID="ENG">Overall{htmlbreak}Damage Assisted Radio Avg.</Item>
-		<Item LanID="FR">Ecart moy.{htmlbreak}dommages assistés Radio</Item>
         <Item LanID="DE">Gesamt{htmlbreak}Schaden verursacht Durchschn.</Item>
         <Item LanID="PL">Całkowite{htmlbreak}Śr. Uszkodzenia Dzięki Wykrywaniu</Item>
+		<Item LanID="FR">Moy. Globale{htmlbreak}des dommages par{htmlbreak}assistance Radio</Item>
         <Item LanID="PT">Total{htmlbreak}Dano Bloq.{htmlbreak}Lagartas</Item>
       </Field>
       <Field Name="HTML_DAMASSRADIO_02" DefaultLanID="ENG">
         <Item LanID="ENG">Tank{htmlbreak}Damage{htmlbreak}Assisted Radio Avg.</Item>
-		<Item LanID="FR">Moy. dommages{htmlbreak}assistés radio{htmlbreak}du Tank</Item>
         <Item LanID="DE">Panzer{htmlbreak}Schaden verursacht{htmlbreak}Durchschnitt</Item>
         <Item LanID="PL">Średnie{htmlbreak}Uszkodzenia{htmlbreak}Czołgu Dzięki Wykrywaniu</Item>
+		<Item LanID="FR">Moy. des dommages{htmlbreak}par assistance radio{htmlbreak}du char</Item>
         <Item LanID="PT">Média Tanque{htmlbreak}Dano Bloq.{htmlbreak}Lagartas</Item>
       </Field>
       <Field Name="HTML_DAMASSTRACK_01" DefaultLanID="ENG">
         <Item LanID="ENG">Overall{htmlbreak}Damage Assisted Tracks Avg.</Item>
-		<Item LanID="FR">Ecart moy.{htmlbreak}dommages assistés chenilles</Item>
         <Item LanID="DE">Gesamt{htmlbreak}Schaden verursacht Durchschn.</Item>
         <Item LanID="PL">Całkowite{htmlbreak}Śr. Uszkodzenia Dzięku Unieruchomieniu Pojazdu</Item>
+		<Item LanID="FR">Moy. Globale{htmlbreak}des dommages par{htmlbreak}déchenillage</Item>
         <Item LanID="PT">Total{htmlbreak}Dano Bloq.{htmlbreak}Lagartas</Item>
       </Field>
       <Field Name="HTML_DAMASSTRACK_02" DefaultLanID="ENG">
         <Item LanID="ENG">Tank{htmlbreak}Damage{htmlbreak}Assisted Tracks Avg.</Item>
-        <Item LanID="FR">Moy. dommages{htmlbreak}assistés chenilles{htmlbreak}du Tank</Item>
-		<Item LanID="DE">Panzer{htmlbreak}Schaden verursacht{htmlbreak}Durchschnitt</Item>
+        <Item LanID="DE">Panzer{htmlbreak}Schaden verursacht{htmlbreak}Durchschnitt</Item>
         <Item LanID="PL">Średnie{htmlbreak}Uszkodzenia{htmlbreak}Czołgu Dzięki Unieruchomieniu Pojazdu</Item>
+		<Item LanID="FR">Moy. des dommages{htmlbreak} par{htmlbreak}déchenillage</Item>
         <Item LanID="PT">Média Tanque{htmlbreak}Dano Bloq.{htmlbreak}Lagartas</Item>
       </Field>
       <Field Name="HTML_DAMRECEIV_01" DefaultLanID="ENG">
@@ -1569,7 +1568,7 @@
         <Item LanID="SR">Ukupan prosek{htmlbreak}pretrpljene{htmlbreak}štete</Item>
         <Item LanID="FI">Yhteensä{htmlbreak}Vahinko{htmlbreak}Keskimäärin.</Item>
         <Item LanID="KR">전체{htmlbreak}받은{htmlbreak}데미지{htmlbreak}평균</Item>
-        <Item LanID="FR">Ecart avec{htmlbreak}la moy.{htmlbreak}des dommages reçus</Item>
+        <Item LanID="FR">Moy. Globale{htmlbreak}{htmlbreak}des dommages reçus</Item>
         <Item LanID="IT">Diff.{htmlbreak}Media{htmlbreak}Danni Ricevuti</Item>
         <Item LanID="NL">Algeheel gemiddelde{htmlbreak}ontvangen schade</Item>
         <Item LanID="PT">Média Global{htmlbreak}Danos{htmlbreak}Recebidos.</Item>
@@ -1585,7 +1584,7 @@
         <Item LanID="SR">Prosečna pretrpljena šteta po tenku</Item>
         <Item LanID="FI">Keskimääräinen tankki vahinko</Item>
         <Item LanID="KR">받은 데미지{htmlbreak}평균</Item>
-        <Item LanID="FR">Moyenne des dommages reçus du tank</Item>
+        <Item LanID="FR">Moyenne des dommages reçus du char</Item>
         <Item LanID="IT">Media Danno Ricevuto al Carro</Item>
         <Item LanID="NL">t.o.v. gemiddeld{htmlbreak}ontvangen schade</Item>
         <Item LanID="PT">Dano Médio Recebido por Tanque.</Item>
@@ -1601,7 +1600,7 @@
         <Item LanID="SR">Ukupan prosek otkrivenih</Item>
         <Item LanID="FI">Kaikki havaitut, keskimääräinen</Item>
         <Item LanID="KR">평균{htmlbreak}적 발견 수</Item>
-        <Item LanID="FR">Ecart avec{htmlbreak}la moy.{htmlbreak}de détection</Item>
+        <Item LanID="FR">Moy. Globale{html}des Chars Détectés</Item>
         <Item LanID="IT">Diff. Media Avvistati</Item>
         <Item LanID="NL">Algeheel gemiddelde detectie</Item>
         <Item LanID="PT">Média Global Detectados</Item>
@@ -1617,7 +1616,7 @@
         <Item LanID="SR">Prosek{htmlbreak}otkrivenih{htmlbreak}po tenku</Item>
         <Item LanID="FI">Tankki{htmlbreak}Havaittu{htmlbreak}Keskimäärin.</Item>
         <Item LanID="KR">전차별{htmlbreak}적발견수{htmlbreak}평균</Item>
-        <Item LanID="FR">Moyenne{htmlbreak} de détection{htmlbreak} du tank</Item>
+        <Item LanID="FR">Moyenne{htmlbreak}des Chars Détectés{htmlbreak}par le char</Item>
         <Item LanID="IT">Media{htmlbreak}Avvistati{htmlbreak}dal Carro</Item>
         <Item LanID="NL">t.o.v. gemiddeld{htmlbreak}aantal tanks ontdekt</Item>
         <Item LanID="PT">Média{htmlbreak}Tanques{htmlbreak}Detactados.</Item>
@@ -1632,7 +1631,7 @@
         <Item LanID="PL">Średnia</Item>
         <Item LanID="SR">Prosečno</Item>
         <Item LanID="FI">Keskimääräinen</Item>
-        <Item LanID="FR">Moyenne</Item>
+        <Item LanID="FR">Moyen(ne)</Item>
         <Item LanID="IT">Medio</Item>
         <Item LanID="NL">Gemiddeld</Item>
         <Item LanID="PT">Média</Item>
@@ -1642,10 +1641,10 @@
       </Field>
       <Field Name="HTML_EFF_VERYBAD" DefaultLanID="ENG">
         <Item LanID="ENG">Very Bad</Item>
-		<Item LanID="FR">Très mauvais</Item>
         <Item LanID="DE">Sehr Schlecht</Item>
         <Item LanID="PL">Bardzo Źle</Item>
-         <Item LanID="PT">Muito Mau</Item>
+		<Item LanID="FR">Très Mauvais</Item>
+        <Item LanID="PT">Muito Mau</Item>
       </Field>
       <Field Name="HTML_EFF_BAD" DefaultLanID="ENG">
         <Item LanID="ENG">Bad</Item>
@@ -1694,9 +1693,9 @@
       </Field>
       <Field Name="HTML_EFF_VERYGOOD" DefaultLanID="ENG">
         <Item LanID="ENG">Very Good</Item>
-		<Item LanID="FR">Très bon</Item>
         <Item LanID="DE">Sehr gut</Item>
         <Item LanID="PL">Bardzo Dobrze</Item>
+		<Item LanID="FR">Très Bon</Item>
         <Item LanID="PT">Muito Bom</Item>
       </Field>
       <Field Name="HTML_EFF_GREAT" DefaultLanID="ENG">
@@ -1731,9 +1730,9 @@
       </Field>
       <Field Name="HTML_EFF_SUPERUNICUM" DefaultLanID="ENG">
         <Item LanID="ENG">Super Unicum</Item>
-		<Item LanID="FR">Super Exceptionnel</Item>
         <Item LanID="DE">Super Unicum</Item>
         <Item LanID="PL">Unikalnie</Item>
+		<Item LanID="FR">Super Exceptionnel</Item>
         <Item LanID="PT">Super Único</Item>
       </Field>
       <Field Name="HTML_EXPER" DefaultLanID="ENG">
@@ -1919,7 +1918,7 @@
         <Item LanID="SR">Kategorija</Item>
         <Item LanID="FI">Sijoitus</Item>
         <Item LanID="KR">등급</Item>
-        <Item LanID="FR">Rang</Item>
+        <Item LanID="FR">Rangs</Item>
         <Item LanID="IT">Classifica</Item>
         <Item LanID="NL">Rang</Item>
         <Item LanID="PT">Rank</Item>
@@ -1935,7 +1934,7 @@
         <Item LanID="SR">Tenk</Item>
         <Item LanID="FI">Tankki</Item>
         <Item LanID="KR">전차</Item>
-        <Item LanID="FR">Tank</Item>
+        <Item LanID="FR">Char</Item>
         <Item LanID="IT">Nome Carro</Item>
         <Item LanID="NL">Tank</Item>
         <Item LanID="PT">Tanque</Item>
@@ -1951,7 +1950,7 @@
         <Item LanID="SR">Statistika tenkova po vrsti</Item>
         <Item LanID="FI">Luokkakohtainen tankki tilasto</Item>
         <Item LanID="KR">전차 분류별 통계</Item>
-        <Item LanID="FR">Statistiques par classe de tank</Item>
+        <Item LanID="FR">Statistiques par classe de char</Item>
         <Item LanID="IT">Statistiche Per Classe Carri</Item>
         <Item LanID="NL">Tank klasse statistieken</Item>
         <Item LanID="PT">Estatísticas por Classe de Tanque</Item>
@@ -1967,7 +1966,7 @@
         <Item LanID="SR">Broj tenkova</Item>
         <Item LanID="FI">Tankkien määrä</Item>
         <Item LanID="KR">전차 수</Item>
-        <Item LanID="FR">Nombre par tank</Item>
+        <Item LanID="FR">Nombre par char</Item>
         <Item LanID="IT">Quantità Carri</Item>
         <Item LanID="NL">Tanksaantallen</Item>
         <Item LanID="PT">Número de Tanques</Item>
@@ -2111,7 +2110,7 @@
         <Item LanID="SR">Ukupan prosek{htmlbreak}uništenih</Item>
         <Item LanID="FI">Kokonais{htmlbreak}keskimääräiset tuhotut.</Item>
         <Item LanID="KR">전체{htmlbreak}킬{htmlbreak}평균</Item>
-        <Item LanID="FR">Ecart avec{htmlbreak}la moy. de détruits</Item>
+        <Item LanID="FR">Moy. Globale{htmlbreak}des détruits</Item>
         <Item LanID="IT">Diff.{htmlbreak}Media{htmlbreak}Distrutti</Item>
         <Item LanID="NL">Algeheel gemiddelde{htmlbreak}aantal vernietigd</Item>
         <Item LanID="PT">Resumo Médio{htmlbreak}Destruidos.</Item>
@@ -2127,7 +2126,7 @@
         <Item LanID="SR">Prosek{htmlbreak]po tenku</Item>
         <Item LanID="FI">Tankki{htmlbreak}  Keskimääräinen.</Item>
         <Item LanID="KR">전차별{htmlbreak}평균</Item>
-        <Item LanID="FR">Moyenne{htmlbreak}du tank</Item>
+        <Item LanID="FR">Moyenne{htmlbreak}du char</Item>
         <Item LanID="IT">Media{htmlbreak}  Carro</Item>
         <Item LanID="NL">t.o.v. gemiddeld{htmlbreak}aantal vernietigd</Item>
         <Item LanID="PT">Média{htmlbreak} Tanque.</Item>
@@ -2175,7 +2174,7 @@
         <Item LanID="SR">Premium tenkovi nisu obavezni{htmlbreak}za Master Tanker dostignuće</Item>
         <Item LanID="FI">Ei vaaditut kulta tankit{htmlbreak} Tankkimestari saavutukseen</Item>
         <Item LanID="KR">프리미엄 전차는{htmlbreak}전차의 달인 업적에 영향을 주지 않습니다</Item>
-        <Item LanID="FR">Les chars premium{htmlbreak}ne sont pas comptés{htmlbreak}pour l'expert tankiste</Item>
+        <Item LanID="FR">Les chars premium{htmlbreak}ne sont pas comptés{htmlbreak}pour la médaille{htmlbreak}expert tankiste</Item>
         <Item LanID="IT">I carri Premium non sono richiesti{htmlbreak}per il conseguimento del Master Tanker</Item>
         <Item LanID="NL">Premium tanks zijn niet vereist{htmlbreak}voor de Meester Tanker prestatie</Item>
         <Item LanID="PT">Tanques Premium não são necessáos{htmlbreak}para a medalha Mestre dos Tanques</Item>
@@ -2233,17 +2232,17 @@
       </Field>
       <Field Name="HTML_TANKINFO_KILLBCLASS" DefaultLanID="ENG">
         <Item LanID="ENG">Kills By Class (Combined Battle Modes)</Item>
-		<Item LanID="FR">Détruit par Classe (Bataille Modes Combinés)</Item>
         <Item LanID="RU">Уничтожил по классам (Выбрать "Вид боя")</Item>
         <Item LanID="PL">Zabici wg Klasy (Wszystkie Tryby Bitwy)</Item>
+        <Item LanID="FR">Détruits par Classe (Tous modes de batailles)</Item>
         <Item LanID="IT">Uccisioni per Classe (Modalità di battaglia combinate)</Item>
         <Item LanID="PT">Destruidos por Tipo (Todos os Modos de Batalha)</Item>
       </Field>
       <Field Name="HTML_TANKINFO_KILLS" DefaultLanID="ENG">
         <Item LanID="ENG">Kills (Combined Battle Modes)</Item>
-		<Item LanID="FR">Détruit Bataille Modes Combinés)</Item>
         <Item LanID="RU">Уничтожил (Выбрать "Вид боя")</Item>
         <Item LanID="PL">Zabici (Wszystkie Tryby Bitwy)</Item>
+        <Item LanID="FR">Détruits (Tous modes de batailles)</Item>
         <Item LanID="IT">Uccisioni (Modalità di battaglia combinate)</Item>
         <Item LanID="PT">Destruidos(Todos os Modos de Batalha)</Item>
       </Field>
@@ -2271,7 +2270,7 @@
         <Item LanID="SR">Ukupan{htmlbreak}prosek{htmlbreak}XP-a</Item>
         <Item LanID="FI">Kokonais{htmlbreak}XP{htmlbreak}keskiarvo.</Item>
         <Item LanID="KR">전체{htmlbreak}경험치{htmlbreak}평균</Item>
-        <Item LanID="FR">Ecart avec{htmlbreak}la moy.{htmlbreak}de EXP{htmlbreak}globale</Item>
+        <Item LanID="FR">Moy. Globale{htmlbreak}d'EXP</Item>
         <Item LanID="IT">Diff.{htmlbreak}Media{htmlbreak}XP</Item>
         <Item LanID="NL">Algeheel gemiddelde{htmlbreak}ervaring</Item>
         <Item LanID="PT">Resumo{htmlbreak}Exp.{htmlbreak}Média.</Item>
@@ -2287,7 +2286,7 @@
         <Item LanID="SR">Prosek{htmlbreak}XP-a{htmlbreak}po tenku</Item>
         <Item LanID="FI">Tankki{htmlbreak}Kokemus{htmlbreak}Keskimäärin.</Item>
         <Item LanID="KR">전차별{htmlbreak}경험치{htmlbreak}평균</Item>
-        <Item LanID="FR">Moyenne{htmlbreak}d'EXP{htmlbreak}du tank</Item>
+        <Item LanID="FR">Moyenne{htmlbreak}d'EXP{htmlbreak}du char</Item>
         <Item LanID="IT">Carro{htmlbreak}XP{htmlbreak}Media</Item>
         <Item LanID="NL">t.o.v.{htmlbreak}gemiddelde{htmlbreak}ervaring</Item>
         <Item LanID="PT">Média{htmlbreak}XP{htmlbreak}Tanque.</Item>
@@ -2349,7 +2348,7 @@
         <Item LanID="SR">Laki tenk</Item>
         <Item LanID="FI">Kevyet tankit</Item>
         <Item LanID="KR">경전차</Item>
-        <Item LanID="FR">Tank léger</Item>
+        <Item LanID="FR">Char léger</Item>
         <Item LanID="IT">Carri Leggeri</Item>
         <Item LanID="NL">Lichte Tank</Item>
         <Item LanID="PT">Tanque Ligeiro</Item>
@@ -2359,11 +2358,11 @@
       </Field>
       <Field Name="LT_SHORT" DefaultLanID="ENG">
         <Item LanID="ENG">LT</Item>
-		<Item LanID="FR">LT</Item>
         <Item LanID="DE">LT</Item>
         <Item LanID="RU">ЛТ</Item>
         <Item LanID="PL">LT</Item>
         <Item LanID="SR">LT</Item>
+		<Item LanID="FR">LT</Item>
         <Item LanID="IT">LТ</Item>
         <Item LanID="PT">TL</Item>
       </Field>
@@ -2391,7 +2390,7 @@
         <Item LanID="SR">Srednji tenk</Item>
         <Item LanID="FI">Keskiraskas Tankki</Item>
         <Item LanID="KR">중형전차</Item>
-        <Item LanID="FR">Tank moyen</Item>
+        <Item LanID="FR">Char moyen</Item>
         <Item LanID="IT">Carro Medio</Item>
         <Item LanID="NL">Medium Tank</Item>
         <Item LanID="PT">Tanque Médio</Item>
@@ -2401,11 +2400,11 @@
       </Field>
       <Field Name="MT_SHORT" DefaultLanID="ENG">
         <Item LanID="ENG">MT</Item>
-		<Item LanID="FR">MT</Item>
         <Item LanID="DE">MT</Item>
         <Item LanID="RU">СТ</Item>
         <Item LanID="PL">MT</Item>
         <Item LanID="SR">ST</Item>
+        <Item LanID="FR">MT</Item>
         <Item LanID="IT">MT</Item>
         <Item LanID="PT">TM</Item>
       </Field>
@@ -2513,7 +2512,7 @@
         <Item LanID="SR">Po tenku</Item>
         <Item LanID="FI">Tankien</Item>
         <Item LanID="KR">전차별</Item>
-        <Item LanID="FR">Par tank</Item>
+        <Item LanID="FR">Par char</Item>
         <Item LanID="IT">Per Carro</Item>
         <Item LanID="NL">Per tank</Item>
         <Item LanID="PT">Por Tanque</Item>
@@ -2545,7 +2544,7 @@
         <Item LanID="SR">Statistika tenka</Item>
         <Item LanID="FI">tankkien tilastot</Item>
         <Item LanID="KR">전차별 통계</Item>
-        <Item LanID="FR">Pour les statististiques du tank</Item>
+        <Item LanID="FR">Pour les statististiques du char</Item>
         <Item LanID="IT">Statistiche Carri</Item>
         <Item LanID="NL">tot tank statsistieken</Item>
         <Item LanID="PT">Estatísticas do Tanque</Item>
@@ -2555,20 +2554,20 @@
       </Field>
       <Field Name="RB_INVALIDXBATENTERED" DefaultLanID="ENG">
         <Item LanID="ENG">Invalid value entered. Please enter any value between 10 and 1000 battles.</Item>
-		<Item LanID="FR">Entrée de valeur invalide. SVP entrer une valeur entre 10 et 1000 batailles.</Item>
         <Item LanID="RU">Введено неверное значение. Пожалуйста, введите любое значение от 10 до 1000 боёв.</Item>
         <Item LanID="PL">Nieprawidłowa wartość. Podaj liczbę liczbę bitew pomiędzy 10 a 1000.</Item>
         <Item LanID="SR">Uneli ste neodgovarajuću vrednost. Unesite broj između 10 i 1000.</Item>
+        <Item LanID="FR">Valeur Incorrecte. Entrez une valeur entre 10 et 1000 batailles.</Item>
         <Item LanID="IT">Valore inserito non valido. Inserire un valore compreso tra 10 e 1000 battaglie.</Item>
         <Item LanID="PT">Valor Incorrecto. Por favor inserir um valor entre 10 e 100 batalhas.</Item>
         <Item LanID="CZ">Zadána špatná hodnota. Zadej hodnotu v rozmezí 10 a 1000 bitev.</Item>
       </Field>
       <Field Name="RB_INVALIDXHRSENTERED" DefaultLanID="ENG">
         <Item LanID="ENG">Invalid value entered. Please enter any value between 2 and 72 hours.</Item>
-		<Item LanID="FR">Entrée de valeur invalide. SVP entrer une valeur entre 2 et 72 heures.</Item>
         <Item LanID="RU">Введено неверное значение. Пожалуйста, введите любое значение от 2 до 72 часов.</Item>
         <Item LanID="PL">Nieprawidłowa wartość. Podaj liczbę godzin pomiędzy 2 a 72</Item>
         <Item LanID="SR">Uneli ste neodgovarajuću vrednost. Unesite broj između 2 i 72.</Item>
+        <Item LanID="FR">Valeur Incorrecte. Entrez une valeur entre 2 et 72 heures.</Item>
         <Item LanID="IT">Valore inserito non valido. Inserire un valore compreso tra 2 e 72 ore.</Item>
         <Item LanID="PT">Valor Incorrecto. Por favor inserir um valor entre 2 e 72 horas.</Item>
         <Item LanID="CZ">Zadána špatná hodnota. Zadej hodnotu v rozmezí 2 a 72 hodin.</Item>
@@ -2591,10 +2590,10 @@
       </Field>
       <Field Name="SPG_SHORT" DefaultLanID="ENG">
         <Item LanID="ENG">SPG</Item>
-		<Item LanID="FR">SPG</Item>
         <Item LanID="RU">САУ</Item>
         <Item LanID="PL">SPG</Item>
         <Item LanID="SR">AR</Item>
+        <Item LanID="FR">SPG</Item>
         <Item LanID="IT">SPG</Item>
         <Item LanID="PT">ART</Item>
       </Field>
@@ -2632,144 +2631,144 @@
       </Field>
       <Field Name="STR_CAP_AUTOAFTERXBATTLES" DefaultLanID="ENG">
         <Item LanID="ENG">After every </Item>
-		<Item LanID="FR">Après chaque</Item>
         <Item LanID="RU">После каждого</Item>
         <Item LanID="PL">Po każdych</Item>
         <Item LanID="SR">Nakon svake/svakih </Item>
+        <Item LanID="FR">Après chaque</Item>
         <Item LanID="IT">Dopo ogni </Item>
         <Item LanID="PT">Depois de todas </Item>
         <Item LanID="CZ">Po každých </Item>
       </Field>
       <Field Name="STR_CAP_AUTOAFTERXHOURS" DefaultLanID="ENG">
         <Item LanID="ENG">hours after last battle</Item>
-		<Item LanID="FR">heures après la dernière bataille</Item>
         <Item LanID="RU">часов после последнего боя</Item>
         <Item LanID="PL">godzin od ostatniej bitwy</Item>
         <Item LanID="SR">sati nakon poslednje bitke</Item>
+        <Item LanID="FR">heures après la dernière bataille</Item>
         <Item LanID="IT">ore dopo l'ultima battaglia</Item>
         <Item LanID="PT">horas depois da última batalha</Item>
         <Item LanID="CZ">hodinách po poslední bitvě</Item>
       </Field>
       <Field Name="STR_CAP_AUTODISPLAYMESSAGE" DefaultLanID="ENG">
         <Item LanID="ENG">Display message before creating new session</Item>
-		<Item LanID="FR">Affichage d'un message avant de créer une nouvelle session</Item>
         <Item LanID="RU">Показать сообщение перед созданием новой сессии</Item>
         <Item LanID="PL">Wyświetl komunikat przed utworzeniem nowej sesji</Item>
         <Item LanID="SR">Obavesti me pre kreiranja nove sesije</Item>
+        <Item LanID="FR">Afficher le message avant de créer une nouvelle session</Item>
         <Item LanID="IT">Visualizza messaggio prima di creare una nuova sessione</Item>
         <Item LanID="PT">Mostra mensagem antes de criar nova sessão</Item>
         <Item LanID="CZ">Informuj před vytvořením nové relace</Item>
       </Field>
       <Field Name="STR_CAP_AUTOONSTARTUP" DefaultLanID="ENG">
         <Item LanID="ENG">On Startup  -  this option will create new session for the first player only</Item>
-		<Item LanID="FR">Au démarrage -  cette option créera une nouvelle session seulement pour le premier joueur</Item>
         <Item LanID="RU">При запуске - эта опция будет создавать новую сессию только для первого игрока</Item>
         <Item LanID="PL">Przy starcie - ta opcja utworzy nową sesję tylko dla pierwszego użytkownika</Item>
         <Item LanID="SR">Pri pokretanju aplikacije</Item>
+        <Item LanID="FR">Au démarrage - cette option créera une nouvelle session pour le 1er joueur</Item>
         <Item LanID="IT">All'avvio  -  questa opzione creerà una nuova sessione solo per il primo giocatore</Item>
         <Item LanID="PT">No Iniciar da Aplicação  -  Esta opção apenas cria nova sessão para o prineiro jogador</Item>
         <Item LanID="CZ">Při spuštení - tato volba vytvoří novou relaci pouze pro prvního hráče</Item>
       </Field>
       <Field Name="STR_CAP_AUTOSTARTSESSION" DefaultLanID="ENG">
         <Item LanID="ENG">Auto create new session</Item>
-		<Item LanID="FR">Auto créer une nouvelle session</Item>
         <Item LanID="RU">Автоматическое создание новой сессии</Item>
         <Item LanID="PL">Automatycznie twórz nową sesję</Item>
         <Item LanID="SR">Automatski kreiraj novu sesiju  -  ova opcija kreira novu sesiju samo za prvog igraca</Item>
+        <Item LanID="FR">Création automatique d'une nouvelle session</Item>
         <Item LanID="IT">Crea automaticamente una nuova sessione</Item>
         <Item LanID="CZ">Automaticky vytvářet novou relaci</Item>
       </Field>
       <Field Name="STR_CAP_BATTLEMODE" DefaultLanID="ENG">
         <Item LanID="ENG">Battle Mode</Item>
-		<Item LanID="FR">Mode Bataille</Item>
         <Item LanID="RU">Вид боя</Item>
         <Item LanID="PL">Tryb Bitwy</Item>
+        <Item LanID="FR">Mode de Bataille</Item>
         <Item LanID="IT">Modalità di battaglia</Item>
         <Item LanID="PT">Tipo de Batalha</Item>
       </Field>
       <Field Name="STR_CAP_CURRENTSESSION" DefaultLanID="ENG">
         <Item LanID="ENG">Current Session</Item>
-		<Item LanID="FR">Session Courante</Item>
         <Item LanID="RU">Текущая сессия</Item>
         <Item LanID="PL">Obecna sesja</Item>
         <Item LanID="SR">Trenutna sesija</Item>
+        <Item LanID="FR">Session en cours</Item>
         <Item LanID="IT">Sessione Corrente</Item>
         <Item LanID="PT">Sessão Atual</Item>
         <Item LanID="CZ">Současná relace</Item>
       </Field>
       <Field Name="STR_CAP_LASTGAMESPLD" DefaultLanID="ENG">
         <Item LanID="ENG">Last {NOGAMES} PLayed</Item>
-		<Item LanID="FR">Dernière {NOGAMES} jouée</Item>
         <Item LanID="RU">Последние {NOGAMES} сыгранных</Item>
         <Item LanID="PL">Ostatnich {NOGAMES} bitew</Item>
         <Item LanID="SR">Poslednjih {NOGAMES} bitaka</Item>
+        <Item LanID="FR">{NOGAMES} dernières batailles</Item>
         <Item LanID="IT">Ultima {NOGAMES} Giocata</Item>
         <Item LanID="PT">Últimas {NOGAMES} Jogadas</Item>
         <Item LanID="CZ">Poslední {NOGAMES} odehraná</Item>
       </Field>
       <Field Name="STR_CAP_RATING" DefaultLanID="ENG">
         <Item LanID="ENG">Rating</Item>
-		<Item LanID="FR">Cote</Item>
         <Item LanID="RU">Рейтинг</Item>
         <Item LanID="PL">Ocena</Item>
+        <Item LanID="FR">Classement</Item>
         <Item LanID="PT">Sistema de Classificação</Item>
       </Field>
       <Field Name="STR_CAP_RBCS" DefaultLanID="ENG">
         <Item LanID="ENG">Current Session</Item>
-		<Item LanID="FR">Session Courante</Item>
         <Item LanID="RU">Текущая сессия</Item>
         <Item LanID="PL">Aktualna Sesja</Item>
         <Item LanID="SR">Trenutna sesija</Item>
+        <Item LanID="FR">Session en cours</Item>
         <Item LanID="IT">Sessione Corrente</Item>
         <Item LanID="PT">Sessão Atual</Item>
         <Item LanID="CZ">Současná relace</Item>
       </Field>
       <Field Name="STR_CAP_RBLTD" DefaultLanID="ENG">
         <Item LanID="ENG">Last 3 days</Item>
-		<Item LanID="FR">3 derniers jours</Item>
         <Item LanID="RU">За 3 дня</Item>
         <Item LanID="PL">Ostatnie 3 dni</Item>
         <Item LanID="SR">Poslednja 3 dana</Item>
+        <Item LanID="FR">3 derniers jours</Item>
         <Item LanID="IT">Ultimi 3 giorni</Item>
         <Item LanID="PT">Últimos 3 Dias</Item>
         <Item LanID="CZ">Poslední 3 dny</Item>
       </Field>
       <Field Name="STR_CAP_RBLW" DefaultLanID="ENG">
         <Item LanID="ENG">Last week</Item>
-		<Item LanID="FR">Dernière semaine</Item>
         <Item LanID="RU">За неделю</Item>
         <Item LanID="PL">Ostatni Tydzień</Item>
         <Item LanID="SR">Poslednja nedelja</Item>
+        <Item LanID="FR">Dernières semaines</Item>
         <Item LanID="IT">Ultima Settimana</Item>
         <Item LanID="PT">Última Semana</Item>
         <Item LanID="CZ">Poslední týden</Item>
       </Field>
       <Field Name="STR_CAP_RBLX" DefaultLanID="ENG">
         <Item LanID="ENG">Last {X} battles</Item>
-		<Item LanID="FR">Dernières {X} batailles</Item>
         <Item LanID="RU">За {X} боёв</Item>
         <Item LanID="PL">Ostatnie {X} bitew</Item>
         <Item LanID="SR">Poslednjih {X} bitaka</Item>
+        <Item LanID="FR">{X} dernières batailles</Item>
         <Item LanID="IT">Ultime {X} battaglie</Item>
         <Item LanID="PT">Últimas {X} Batalhas</Item>
         <Item LanID="CZ">Posledních {X} bitev</Item>
       </Field>
       <Field Name="STR_CAP_RBS" DefaultLanID="ENG">
         <Item LanID="ENG">Session #</Item>
-		<Item LanID="FR">Session #</Item>
         <Item LanID="RU">Сессия №</Item>
         <Item LanID="PL">Sesja #</Item>
         <Item LanID="SR">Sesija #</Item>
+        <Item LanID="FR">Session N°</Item>
         <Item LanID="IT">Sessione n.</Item>
         <Item LanID="PT">Sessão #</Item>
         <Item LanID="CZ">Relace #</Item>
       </Field>
       <Field Name="STR_CAP_RBTB" DefaultLanID="ENG">
         <Item LanID="ENG">Today's battles</Item>
-		<Item LanID="FR">Batailles du jour</Item>
         <Item LanID="RU">Бои за сегодня</Item>
         <Item LanID="PL">Dzisiejsze Bitwy</Item>
         <Item LanID="SR">Današnje bitke</Item>
+        <Item LanID="FR">Batailles du jour</Item>
         <Item LanID="IT">Battaglie di Oggi</Item>
         <Item LanID="PT">Batalhas de Hoje</Item>
         <Item LanID="CZ">Dnešní bitvy</Item>
@@ -2842,7 +2841,7 @@
         <Item LanID="SR">Molim popunite sva polja</Item>
         <Item LanID="FI">Täytä kaikki kentät.</Item>
         <Item LanID="KR">모든 항목을 채워 주십시오.</Item>
-        <Item LanID="FR">Complétez tout les champs SVP</Item>
+        <Item LanID="FR">Complétez tous les champs SVP</Item>
         <Item LanID="IT">Prego riempire tutti i campi.</Item>
         <Item LanID="NL">Vul AUB alle velden in.</Item>
         <Item LanID="PT">Por favor, preencha todos os campos.</Item>
@@ -2889,7 +2888,7 @@
         <Item LanID="SR">Molim odaberite tenk(ove) koji će biti prikazani na grafikonu</Item>
         <Item LanID="FI">Valitse tankki(t) jotka näytetään taulukossa.</Item>
         <Item LanID="KR">도표에 표시될 전차를 선택해 주십시오.</Item>
-        <Item LanID="FR">Sélectionnez un(des) tank(s) qui seront affichés dans les statistiques.</Item>
+        <Item LanID="FR">Sélectionnez un(des) char(s) qui sera(ont) affiché(s) dans les statistiques.</Item>
         <Item LanID="IT">Selezionare il(i) carro(i) da visualizzare nel grafico.</Item>
         <Item LanID="NL">Selecteer AUB de tanks(s) welke in de grafiek weergegeven moeten worden.</Item>
         <Item LanID="PT">Por favor selecione os tanque(s) a ser exibido no gráfico.</Item>
@@ -2921,7 +2920,7 @@
         <Item LanID="SR">Da li ste sigurni da želite da obrišete listu skorašnjih bitaka?</Item>
         <Item LanID="FI">Oletko varma, että haluat tyhjentää viimeiset taistelu listan?</Item>
         <Item LanID="KR">정말 최근 전투 기록을 초기화 하시겠습니까?</Item>
-        <Item LanID="FR">Etes-vous sûrs de vouloir effacer votre liste de batailles récentes?</Item>
+        <Item LanID="FR">Etes vous sûr de vouloir effacer votre liste de bataille récentes?</Item>
         <Item LanID="IT">Sei sicuro di voler cancellare la lista delle battaglie recenti?</Item>
         <Item LanID="NL">Weet je zeker dat je de lijst met recente gevechten wilt wissen?</Item>
         <Item LanID="PT">Tem certeza de que deseja limpar sua lista de batalhas recentes?</Item>
@@ -2937,7 +2936,7 @@
         <Item LanID="SR">Lokacija:</Item>
         <Item LanID="FI">Sijainti :</Item>
         <Item LanID="KR">위치 : </Item>
-        <Item LanID="FR">Adresse</Item>
+        <Item LanID="FR">Adresse :</Item>
         <Item LanID="IT">Percorso :</Item>
         <Item LanID="NL">Locatie :</Item>
         <Item LanID="PT">Localização:</Item>
@@ -3064,7 +3063,7 @@
         <Item LanID="SR">Molim navedite naziv grupe.</Item>
         <Item LanID="FI">Erittele ryhmä nimet</Item>
         <Item LanID="KR">그룹 이름을 지정해 주십시오.</Item>
-        <Item LanID="FR">Définissez un nom du groupe</Item>
+        <Item LanID="FR">Définissez le nom du groupe</Item>
         <Item LanID="IT">Prego specificare il nome del gruppo.</Item>
         <Item LanID="NL">Specifieer een groups naam.</Item>
         <Item LanID="PT">Por favor, especifique um nome de grupo.</Item>
@@ -3092,7 +3091,7 @@
         <Item LanID="SR">Datum:</Item>
         <Item LanID="FI">Päivä :</Item>
         <Item LanID="KR">날짜 : </Item>
-        <Item LanID="FR">Date:</Item>
+        <Item LanID="FR">Date :</Item>
         <Item LanID="IT">Data :</Item>
         <Item LanID="NL">Datum :</Item>
         <Item LanID="PT">Data:</Item>
@@ -3152,7 +3151,7 @@
         <Item LanID="SR">Da li ste sigurni da želite da obrišete grafikon:</Item>
         <Item LanID="FI">Oletko varma, että haluat poistaa taulukon:</Item>
         <Item LanID="KR">다음 차트를 삭제 하시겠습니까? :</Item>
-        <Item LanID="FR">Etes-vous sûrs de vouloir supprimer ces graphiques?</Item>
+        <Item LanID="FR">Etes-vous sûr de vouloir supprimer ces graphiques?</Item>
         <Item LanID="IT">Sei sicuro di voler eliminare il grafico:</Item>
         <Item LanID="NL">Weet je zeker dat je de grafiek wilt wissen:</Item>
         <Item LanID="PT">Tem certeza que deseja remover o gráfico:</Item>
@@ -3167,7 +3166,7 @@
         <Item LanID="SR">Da li ste sigurni da želite da obrišete grupisanje:</Item>
         <Item LanID="FI">Oletko varma, että haluat poistaa ryhmittelyn:</Item>
         <Item LanID="KR">다음 그룹을 삭제 하시겠습니까? :</Item>
-        <Item LanID="FR">Etes-vous sûrs de vouloir effacer ce groupe?</Item>
+        <Item LanID="FR">Etes-vous sûr de vouloir effacer ce groupe?</Item>
         <Item LanID="IT">Sei sicuro di voler rimuovere il raggruppamento:</Item>
         <Item LanID="NL">Weet je zeker dat je groupering uit wilt schakelen:</Item>
         <Item LanID="PT">Tem certeza que deseja remover o agrupamento:</Item>
@@ -3199,7 +3198,7 @@
         <Item LanID="SR">World of Tanks and Wargaming.net are registered trademarks or trademarks of Wargaming.net LLP.</Item>
         <Item LanID="FI">World of Tanks ja Wargaming.net on rekistiröity tavaramerkki tai tavaramerkki Wargaming.net LLP.</Item>
         <Item LanID="KR">World of Tanks 와 Wargaming.net 은 Wargaming.net LLP 의 등록상표입니다.</Item>
-        <Item LanID="FR">World of tank et wargaming.net sont des marques déposées par wargaming.net LLP.</Item>
+        <Item LanID="FR">World of tank et wargaming.net sont des marques déposées par Wargaming.net LLP.</Item>
         <Item LanID="IT">World of Tanks e Wargaming.net sono marchi registrati o marchi della Wargaming.net LLP.</Item>
         <Item LanID="NL">World of Tanks en Wargaming.net zijn geregistreerde handelsmerken van Wargaming.net LLP.</Item>
         <Item LanID="PT">World of Tanks e Wargaming.net são marcas comerciais registadas ou marcas comerciais da Wargaming.net LLP.</Item>
@@ -3318,10 +3317,10 @@
       </Field>
       <Field Name="STR_EUFORMLINK" DefaultLanID="ENG">
         <Item LanID="ENG">Get Support</Item>
-		<Item LanID="FR">Obtenir un support</Item>
         <Item LanID="DE">Unterstützung</Item>
-        <Item LanID="PL">Wsparcie Techniczne</Item>
+        <Item LanID="ENG">Wsparcie Techniczne</Item>
         <Item LanID="SR">Get Support</Item>
+		<Item LanID="FR">Support Technique</Item>
         <Item LanID="IT">Get Support</Item>
         <Item LanID="PT">Pedir Ajuda</Item>
         <Item LanID="CZ">Get Support</Item>
@@ -3334,7 +3333,7 @@
         <Item LanID="SR">Da li želite da nastavite praćenje igre?</Item>
         <Item LanID="FI">Tahdotko pitää seurannan käynnissä</Item>
         <Item LanID="KR">계속 게임 전적을 모니터링 하시겠습니까?</Item>
-        <Item LanID="FR">Voulez-vous continuer la surveillance de votre fichier de jeu?</Item>
+        <Item LanID="FR">Voulez vous continuer la surveillance de votre fichier de jeu?</Item>
         <Item LanID="IT">Desideri continuare a monitorare il tuo file di gioco?</Item>
         <Item LanID="NL">Wilt u uw spel bestand blijven monitoren?</Item>
         <Item LanID="PT">Gostaria de manter o monitoramento do seu ficheiro do jogo?</Item>
@@ -3382,7 +3381,7 @@
         <Item LanID="SR">Preuzmi share-ovan fajl</Item>
         <Item LanID="FI">Hae jaettu tiedosto</Item>
         <Item LanID="KR">FTP로 파일 공유</Item>
-        <Item LanID="FR">Obtenir des fichiers de partage</Item>
+        <Item LanID="FR">Obtenir des fichiers partagés</Item>
         <Item LanID="IT">Condividi file</Item>
         <Item LanID="NL">Verkrijg gedeeld bestand</Item>
         <Item LanID="PT">Receber Arquivo Compartilhado</Item>
@@ -3398,7 +3397,7 @@
         <Item LanID="SR">Lozinka:</Item>
         <Item LanID="FI">Salasana :</Item>
         <Item LanID="KR">암호 : </Item>
-        <Item LanID="FR">Mot de passe:</Item>
+        <Item LanID="FR">Mot de passe :</Item>
         <Item LanID="IT">Password :</Item>
         <Item LanID="NL">Wachtwoord :</Item>
         <Item LanID="PT">Senha:</Item>
@@ -3413,7 +3412,7 @@
         <Item LanID="PL">Serwer FTP :</Item>
         <Item LanID="SR">FTP server:</Item>
         <Item LanID="KR">FTP 서버 : </Item>
-        <Item LanID="FR">Serveur FTP:</Item>
+        <Item LanID="FR">Serveur FTP :</Item>
         <Item LanID="IT">Server FTP :</Item>
         <Item LanID="NL">FTP Server :</Item>
         <Item LanID="PT">Servidor FTP:</Item>
@@ -3439,10 +3438,10 @@
       </Field>
       <Field Name="STR_GROUPRATINGSYSTEM" DefaultLanID="ENG">
         <Item LanID="ENG">Rating Formula</Item>
-		<Item LanID="FR">Formule de la cote</Item>
         <Item LanID="RU">Формула рейтинга</Item>
         <Item LanID="PL">Formuła Obliczeń</Item>
         <Item LanID="SR">Rejting formula</Item>
+        <Item LanID="FR">Formule de Classement</Item>
         <Item LanID="IT">Formula Valutazione :</Item>
         <Item LanID="PT">Sistema de Classificação</Item>
         <Item LanID="CZ">Vzorec hodnocení</Item>
@@ -3504,7 +3503,7 @@
         <Item LanID="SR">%s (%d do %d)</Item>
         <Item LanID="FI">%s (%d tonne %d)</Item>
         <Item LanID="KR">%s (%d 일 부터 %d 일 까지)</Item>
-        <Item LanID="FR">%s(%d à %d)</Item>
+        <Item LanID="FR">%s(%d à %s)</Item>
         <Item LanID="IT">%s (%d a %d)</Item>
         <Item LanID="NL">%s (%d tot %d)</Item>
         <Item LanID="PT">%s (%d To %d)</Item>
@@ -3530,10 +3529,10 @@
       </Field>
       <Field Name="STR_HTCLASSSHORT" DefaultLanID="ENG">
         <Item LanID="ENG">HT</Item>
-		<Item LanID="FR">HT</Item>
         <Item LanID="RU">ТТ</Item>
         <Item LanID="PL">HT</Item>
         <Item LanID="SR">TT</Item>
+        <Item LanID="FR">HT</Item>
         <Item LanID="IT">HT</Item>
         <Item LanID="PT">TP</Item>
       </Field>
@@ -3577,7 +3576,7 @@
         <Item LanID="SR">Uništeno</Item>
         <Item LanID="FI">Tuhotut</Item>
         <Item LanID="KR">킬 횟수</Item>
-        <Item LanID="FR">Répartition des destructions</Item>
+        <Item LanID="FR">Répart. des Chars  Détruits</Item>
         <Item LanID="IT">Conteggio Kills</Item>
         <Item LanID="NL">Aantal vernietigd</Item>
         <Item LanID="PT">Contador de Destruidos</Item>
@@ -3625,7 +3624,7 @@
         <Item LanID="SR">Jezik:</Item>
         <Item LanID="FI">Kieli</Item>
         <Item LanID="KR">언어 : </Item>
-        <Item LanID="FR">Langage:</Item>
+        <Item LanID="FR">Langage :</Item>
         <Item LanID="IT">Lingua :</Item>
         <Item LanID="NL">Taal</Item>
         <Item LanID="PT">Língua:</Item>
@@ -3675,19 +3674,19 @@
       </Field>
       <Field Name="STR_MTCLASSSHORT" DefaultLanID="ENG">
         <Item LanID="ENG">MT</Item>
-		<Item LanID="RU">СТ</Item>
+        <Item LanID="RU">СТ</Item>
         <Item LanID="PL">MT</Item>
-        <Item LanID="FR">MT</Item>
-		<Item LanID="SR">ST</Item>
+        <Item LanID="SR">ST</Item>
         <Item LanID="IT">MT</Item>
+		<Item LanID="FR">MT</Item>
       </Field>
       <Field Name="STR_NAFORUMLINK" DefaultLanID="ENG">
         <Item LanID="ENG">NA Forum</Item>
-		<Item LanID="FR">NA Forum</Item>
         <Item LanID="PL">Forum NA</Item>
         <Item LanID="SR">NA Forum</Item>
         <Item LanID="IT">Forum NA</Item>
         <Item LanID="CZ">S. Amerika Fórum</Item>
+		<Item LanID="FR">Forum NA</Item>
       </Field>
       <Field Name="STR_NEG" DefaultLanID="ENG">
         <Item LanID="ENG">Negative :</Item>
@@ -3697,7 +3696,7 @@
         <Item LanID="SR">Negativno:</Item>
         <Item LanID="FI">Huono :</Item>
         <Item LanID="KR">하락 : </Item>
-        <Item LanID="FR">Négatif :</Item>
+        <Item LanID="FR">Négatif:</Item>
         <Item LanID="IT">Negativo :</Item>
         <Item LanID="NL">Negatief :</Item>
         <Item LanID="PT">Negativo:</Item>
@@ -3738,13 +3737,13 @@
       </Field>
       <Field Name="STR_NEWSESSIONNOTIFY" DefaultLanID="ENG">
         <Item LanID="ENG">Would you like to create a new recent battles session?</Item>
-		<Item LanID="FR">Voulez-vous créer une nouvelle session batailles récentes ?</Item>
         <Item LanID="RU">Хотите создать новую сессию последнего боя?</Item>
         <Item LanID="PL">Czy chcesz utworzyć nową sesję?</Item>
         <Item LanID="SR">Da li želite da kreirate novu sesiju?</Item>
         <Item LanID="IT">Desideri creare una nuova sessione per le battaglie recenti?</Item>
         <Item LanID="PT">Quer criar uma nova sessão para batalhas recentes?</Item>
         <Item LanID="CZ">Chceš vytvořit novou relaci současných bitev?</Item>
+		<Item LanID="FR">Voulez-vous créer une nouvelle session de batailles récentes ?</Item>
       </Field>
       <Field Name="STR_OLDDOSSIER" DefaultLanID="ENG">
         <Item LanID="ENG">Old Dossier</Item>
@@ -3811,13 +3810,13 @@
       </Field>
       <Field Name="STR_PLAYERERROR" DefaultLanID="ENG">
         <Item LanID="ENG">Dossier file not found for player : {playerid}{winbreak}Please check the dossier file location on the edit player screen in setup.{winbreak}Player not loaded.</Item>
-		<Item LanID="FR">Dossier du fichier non trouvé pour le joueur : {playerid}{winbreak}SVP vérifier l'adresse du dossier du fichier du joueur édité à l'écran démarrage.{winbreak}Joueur non chargé.</Item>
         <Item LanID="RU">Файл не найден для игрока:  : {playerid}{winbreak}Пожалуйста, проверьте расположение файла в настройках.{winbreak} Игрок не загружен.</Item>
         <Item LanID="PL">Nie odnaleziono pliku Dossier użytkownika : {playerid}{winbreak}Sprawdź lokalizację pliku dossier w oknie edycji danych użytkowników.{winbreak}Nie załadowano użytkownika.</Item>
         <Item LanID="SR">Dosije fajl nije pronađen za igrača : {playerid}{winbreak}. Proverite lokaciju dosije fajla u podešavanjima za igrača.{winbreak} Fajl nije učitan.</Item>
         <Item LanID="IT">File Dossier non trovato per il giocatore : {playerid}{winbreak}Perfavore verificare la posizione del file dossier dal pannello di modifica giocatore nelle impostazioni.{winbreak}Giocatore non caricato.</Item>
         <Item LanID="PT">Ficheiro de dossier não encontrado para jogador: {playerid}{winbreak}Verifique a localização do ficheiro no painel de jogadores, no menu de instalação.{winbreak}Jogador não carregado.</Item>
         <Item LanID="CZ">Dossier soubor pro hráče : {playerid}{winbreak}nenalezen Prosím zkontroluj v nastavení správnou cestu k Doosire souboru.{winbreak}Hráč nenačten.</Item>
+		<Item LanID="FR">Dossier de Fichier inexistant pour le joueur : {playerid}{winbreak}Veuillez vérifier le chemin du dossier de fichier dans l'écran de configuration du joueur.{winbreak}Joueur non chargé.</Item>
       </Field>
       <Field Name="STR_PLAYERID" DefaultLanID="ENG">
         <Item LanID="ENG">Player ID</Item>
@@ -3859,7 +3858,7 @@
         <Item LanID="SR">Pozitivno</Item>
         <Item LanID="FI">positiivinen :</Item>
         <Item LanID="KR">상승 : </Item>
-        <Item LanID="FR">Positif</Item>
+        <Item LanID="FR">Positif :</Item>
         <Item LanID="IT">Positivo :</Item>
         <Item LanID="NL">Positief :</Item>
         <Item LanID="PT">Positivo:</Item>
@@ -3901,7 +3900,6 @@
       </Field>
       <Field Name="STR_RATINGSYSTEM" DefaultLanID="ENG">
         <Item LanID="ENG">Formula :</Item>
-		<Item LanID="FR">Formule :</Item>
         <Item LanID="RU">Формула :</Item>
         <Item LanID="PL">Formuła :</Item>
         <Item LanID="SR">Formula :</Item>
@@ -3909,6 +3907,7 @@
         <Item LanID="PT">Sistema:</Item>
         <Item LanID="CZ">Vzorec :</Item>
         <Item LanID="GR">Φόρμουλα</Item>
+		<Item LanID="FR">Formule :</Item>
       </Field>
       <Field Name="STR_RB_CLEAR" DefaultLanID="ENG">
         <Item LanID="ENG">Clear</Item>
@@ -3928,13 +3927,13 @@
       </Field>
       <Field Name="STR_RB_DISPLAYLIST" DefaultLanID="ENG">
         <Item LanID="ENG">Display List</Item>
-		<Item LanID="FR">Afficher Liste</Item>
         <Item LanID="RU">Показать</Item>
         <Item LanID="PL">Wyświetl</Item>
         <Item LanID="SR">Prikaži listu</Item>
         <Item LanID="IT">Tipo Lista</Item>
         <Item LanID="PT">Mostar Batalhas</Item>
         <Item LanID="CZ">Zobrazit seznam</Item>
+        <Item LanID="FR">Afficher la liste</Item>		
       </Field>
       <Field Name="STR_RB_GROUPING" DefaultLanID="ENG">
         <Item LanID="ENG">Grouping</Item>
@@ -3944,7 +3943,7 @@
         <Item LanID="SR">Grupisanje:</Item>
         <Item LanID="FI">Ryhmittely:</Item>
         <Item LanID="KR">그룹화 : </Item>
-        <Item LanID="FR">Regroupement</Item>
+        <Item LanID="FR">Regroupement :</Item>
         <Item LanID="IT">Raggruppamenti:</Item>
         <Item LanID="NL">Groepering:</Item>
         <Item LanID="PT">Agrupamento:</Item>
@@ -3954,62 +3953,62 @@
       </Field>
       <Field Name="STR_RB_MOVEFIRST" DefaultLanID="ENG">
         <Item LanID="ENG">First session</Item>
-		<Item LanID="FR">Première session</Item>
         <Item LanID="RU">Первая сессия</Item>
         <Item LanID="PL">Pierwsza sesja</Item>
         <Item LanID="SR">Prva sesija</Item>
         <Item LanID="IT">Prima sessione</Item>
         <Item LanID="PT">Primeira sessão</Item>
         <Item LanID="CZ">První</Item>
+		<Item LanID="FR">Première Session :</Item>
       </Field>
       <Field Name="STR_RB_MOVEGOTO" DefaultLanID="ENG">
         <Item LanID="ENG">Go To</Item>
-		<Item LanID="FR">Aller à</Item>
         <Item LanID="RU">Перейти к</Item>
         <Item LanID="PL">Przejdź do</Item>
         <Item LanID="SR">Idi na</Item>
         <Item LanID="IT">Vai A</Item>
         <Item LanID="PT">Ir Para</Item>
         <Item LanID="CZ">Jdi na</Item>
+        <Item LanID="FR">Aller à :</Item>		
       </Field>
       <Field Name="STR_RB_MOVELAST" DefaultLanID="ENG">
         <Item LanID="ENG">Last session</Item>
-		<Item LanID="FR">Dernière session</Item>
         <Item LanID="RU">Последняя сессия</Item>
         <Item LanID="PL">Ostatnia sesja</Item>
         <Item LanID="SR">Poslednja sesija</Item>
         <Item LanID="IT">Ultima sessione</Item>
         <Item LanID="CZ">Poslední</Item>
+        <Item LanID="FR">Dernière Session :</Item>		
       </Field>
       <Field Name="STR_RB_MOVENEXT" DefaultLanID="ENG">
         <Item LanID="ENG">Next session</Item>
-		<Item LanID="FR">Session suivante</Item>
         <Item LanID="RU">Следующая сессия</Item>
         <Item LanID="PL">Następna sesja</Item>
         <Item LanID="SR">Sledeća sesija</Item>
         <Item LanID="IT">Prossima sessione</Item>
         <Item LanID="PT">Última Sessão</Item>
         <Item LanID="CZ">Další</Item>
+        <Item LanID="FR">Session suivante :</Item>		
       </Field>
       <Field Name="STR_RB_MOVEPREVIOUS" DefaultLanID="ENG">
         <Item LanID="ENG">Previous session</Item>
-		<Item LanID="FR">Session précédente</Item>
         <Item LanID="RU">Предыдущая сессия</Item>
         <Item LanID="PL">Poprzednia sesja</Item>
         <Item LanID="SR">Prethodna sesija</Item>
         <Item LanID="IT">Sessione precedente</Item>
         <Item LanID="PT">Sessão Anterior</Item>
         <Item LanID="CZ">Předchozí</Item>
+        <Item LanID="FR">Session précédente :</Item>		
       </Field>
       <Field Name="STR_RB_NEWSESSION" DefaultLanID="ENG">
         <Item LanID="ENG">Start New Session</Item>
-		<Item LanID="FR">Démarrer une nouvelle session</Item>
         <Item LanID="RU">Новая сессия</Item>
         <Item LanID="PL">Rozpocznij Nową Sesję</Item>
         <Item LanID="SR">Kreiraj novu sesiju</Item>
         <Item LanID="IT">Inizia Nuova Sessione</Item>
         <Item LanID="PT">Iniciar Nova Sessão</Item>
         <Item LanID="CZ">Začít novou relaci</Item>
+        <Item LanID="FR">Commencer une nouvelle session :</Item>		
       </Field>
       <Field Name="STR_RECENTBATTLES" DefaultLanID="ENG">
         <Item LanID="ENG">Recent Battles</Item>
@@ -4083,7 +4082,7 @@
         <Item LanID="SR">Odaberi izgled:</Item>
         <Item LanID="FI">Valitse ulkoasu :</Item>
         <Item LanID="KR">형태 : </Item>
-        <Item LanID="FR">Choisir une apparence</Item>
+        <Item LanID="FR">Choisir une apparence :</Item>
         <Item LanID="IT">Selezionare un Aspetto :</Item>
         <Item LanID="NL">Selecteer een sjabloon :</Item>
         <Item LanID="PT">Selecione uma Aparência:</Item>
@@ -4099,7 +4098,7 @@
         <Item LanID="SR">Odaberi paletu:</Item>
         <Item LanID="FI">Valitse paletti :</Item>
         <Item LanID="KR">색상표 : </Item>
-        <Item LanID="FR">Choisir une palette</Item>
+        <Item LanID="FR">Choisir une palette :</Item>
         <Item LanID="IT">Selezionare Gamma Colori :</Item>
         <Item LanID="NL">Selecteer een palet :</Item>
         <Item LanID="PT">Selecione uma Paleta de Cores:</Item>
@@ -4131,7 +4130,7 @@
         <Item LanID="SR">Prikaži poslenjih</Item>
         <Item LanID="FI">Näytä viimeinen</Item>
         <Item LanID="KR">마지막 전투 표시</Item>
-        <Item LanID="FR">Montrer le dernier</Item>
+        <Item LanID="FR">Montrer la dernière</Item>
         <Item LanID="IT">Mostra Ultima(e)</Item>
         <Item LanID="NL">Geef laatste weer</Item>
         <Item LanID="PT">Mostrar Última</Item>
@@ -4163,7 +4162,7 @@
         <Item LanID="SR">Nijedan igrač nije odabran za praćenje. Da li želite da nastavite?</Item>
         <Item LanID="FI">Et ole valinnut seurattavaa pelaajaa. Haluatko jatkaa?</Item>
         <Item LanID="KR">모니터링하도록 선택한 플레이어가 없습니다. 계속 진행하시겠습니까?</Item>
-        <Item LanID="FR">Aucun joueur n'a été selectionné. Voulez-vous continuer ?</Item>
+        <Item LanID="FR">Aucun joueur n'a été selectionné. Voulez-vous continuer?</Item>
         <Item LanID="IT">Non è stato selezionato alcun giocatore da monitorare. Vuoi continuare?</Item>
         <Item LanID="NL">Geen speler(s) geselecteerd, wilt u doorgaan?</Item>
         <Item LanID="PT">Nenhum jogador foi selecionado para monitorizar. Deseja continuar?</Item>
@@ -4173,13 +4172,13 @@
       </Field>
       <Field Name="STR_SPGCLASSSHORT" DefaultLanID="ENG">
         <Item LanID="ENG">SPG</Item>
-		<Item LanID="FR">SPG</Item>
         <Item LanID="RU">САУ</Item>
         <Item LanID="PL">SPG</Item>
         <Item LanID="SR">Artiljerija</Item>
         <Item LanID="IT">SPG</Item>
         <Item LanID="PT">Artilharia</Item>
         <Item LanID="CZ">Dělostřelectvo</Item>
+        <Item LanID="FR">SPG :</Item>		
       </Field>
       <Field Name="STR_SSAVENOTICE" DefaultLanID="ENG">
         <Item LanID="ENG">Changes you made to Setup would not be saved! {winbreak}{winbreak}Would you like to close Setup window anyway?</Item>
@@ -4189,7 +4188,7 @@
         <Item LanID="SR">Izmene koje ste napravili neće biti snimljene! {winbreak}{winbreak}Da li želite da zatvorite prozor Podešavanja?</Item>
         <Item LanID="FI">Muutoksiasi ei ole tallennettu! {winbreak}{winbreak}Haluatko sulkea tämän siitä huolimatta?</Item>
         <Item LanID="KR">설정이 저장되지 않았습니다! {winbreak}{winbreak}그래도 설정 창을 닫으시겠습니까?</Item>
-        <Item LanID="FR">Les changements de configuration que vous avez faits ne seront pas sauvegardés !{winbreak}{winbreak}Voulez-vous quand même fermer la fenêtre de configuration ?</Item>
+        <Item LanID="FR">Les changements de configuration que vous avez fait ne seront pas sauvegardés!{winbreak}{winbreak}Voulez-vous quand même fermer la fenêtre de configuration?</Item>
         <Item LanID="IT">Le modifiche apportate alle impostazioni non saranno salvate! {winbreak}{winbreak}Vuoi chiudere comunque la finestra impostazioni?</Item>
         <Item LanID="NL">Veranderdingen in de instellingen zullen niet worden opgeslagen! {winbreak}{winbreak}Wilt u het Instellingen scherm toch sluiten?</Item>
         <Item LanID="PT">As alterções feitas na instalação não vão ser guardadas! {winbreak}{winbreak} Voçe deseja fechar a janela de configurção de qualquer maneira?</Item>
@@ -4205,7 +4204,7 @@
         <Item LanID="SR">Tenk Info</Item>
         <Item LanID="FI">Tankki kohtaiset tiedot</Item>
         <Item LanID="KR">전차별 정보</Item>
-        <Item LanID="FR">Info du char</Item>
+        <Item LanID="FR">Infos par Char</Item>
         <Item LanID="IT">Info. Dettaglio Carri</Item>
         <Item LanID="NL">Tank informatie</Item>
         <Item LanID="PT">Informação de Tanque</Item>
@@ -4221,7 +4220,7 @@
         <Item LanID="SR">Tenkovi</Item>
         <Item LanID="FI">Tankki</Item>
         <Item LanID="KR">전차 목록</Item>
-        <Item LanID="FR">Tanks</Item>
+        <Item LanID="FR">Liste des Chars</Item>
         <Item LanID="IT">Elenco Carri</Item>
         <Item LanID="NL">Tanks</Item>
         <Item LanID="PT">Tanques</Item>
@@ -4231,11 +4230,11 @@
       </Field>
       <Field Name="STR_TDCLASSSHORT" DefaultLanID="ENG">
         <Item LanID="ENG">TD</Item>
-		<Item LanID="FR">TD</Item>
         <Item LanID="RU">ПТ</Item>
         <Item LanID="PL">TD</Item>
         <Item LanID="SR">TR</Item>
         <Item LanID="IT">TD</Item>
+        <Item LanID="FR">TD</Item>		
       </Field>
       <Field Name="STR_TIME" DefaultLanID="ENG">
         <Item LanID="ENG">Time :</Item>
@@ -4245,7 +4244,7 @@
         <Item LanID="SR">Vreme:</Item>
         <Item LanID="FI">Aika :</Item>
         <Item LanID="KR">양식 : </Item>
-        <Item LanID="FR">Heure:</Item>
+        <Item LanID="FR">Heure :</Item>
         <Item LanID="IT">Ora :</Item>
         <Item LanID="NL">Tijd :</Item>
         <Item LanID="PT">Hora:</Item>
@@ -4277,7 +4276,7 @@
         <Item LanID="SR">Nova verzija je dostupna ({version}).{winbreak}Da li želite da otvorite stranicu www.vbaddict.net/wotstatistics</Item>
         <Item LanID="FI">Päivitys saatavilla ({version}).{winbreak}Haluatko ladata sen sivulta www.vbaddict.net/wotstatistics</Item>
         <Item LanID="KR">새로운 버전 ({version})이 있습니다. {winbreak}www.vbaddict.net/wotstatistics 페이지로 이동하시겠습니까?</Item>
-        <Item LanID="FR">La nouvelle version est disponible({version}).{winbreak}Voulez-vous ouvrir le site web www.vbaddict.net/wotstatistics ?</Item>
+        <Item LanID="FR">La nouvelle version est disponible({version}).{winbreak}Voulez vous ouvrir le site web www.vbaddict.net/wotstatistics ?</Item>
         <Item LanID="IT">Nuovo aggiornamento disponibile ({version}).{winbreak}Desideri aprire la pagina web www.vbaddict.net/wotstatistics</Item>
         <Item LanID="NL">Nieuwe update beschikbaar ({version}).{winbreak}Wilt u de web pagina www.vbaddict.net/wotstatistics openen</Item>
         <Item LanID="PT">Nova versão disponível({version}).{winbreak} Quer abrir a página web www.vbaddict.net/wotstatistics</Item>
@@ -4333,7 +4332,6 @@
       </Field>
       <Field Name="STR_WINRATE" DefaultLanID="ENG">
         <Item LanID="ENG">Win Percentage</Item>
-		<Item LanID="FR">Win Pourcentage</Item>
         <Item LanID="RU">Процент побед</Item>
         <Item LanID="PL">Procent Zwycięstw</Item>
         <Item LanID="SR">Procenat pobeda</Item>
@@ -4341,43 +4339,44 @@
         <Item LanID="PT">Vitórias (%)</Item>
         <Item LanID="CZ">Vítězství v procentech</Item>
         <Item LanID="GR">Ποσοστό Νικών</Item>
+		<Item LanID="FR">Pourcentage de Victoires</Item>
       </Field>
       <Field Name="STR_BR_Caption" DefaultLanID="ENG">
         <Item LanID="ENG">Battle Rating</Item>
-		<Item LanID="FR">Cote Bataille</Item>
         <Item LanID="PL">Rating Bitwy</Item>
         <Item LanID="SR">Battle Rating</Item>
         <Item LanID="IT">Battle Rating</Item>
         <Item LanID="PT">Rating{htmlbreak}Batalha</Item>
         <Item LanID="CZ">Battle Rating</Item>
         <Item LanID="GR">Battle Rating</Item>
+        <Item LanID="FR">Ratio de Bataille</Item>		
       </Field>
       <Field Name="STR_WN7_Caption" DefaultLanID="ENG">
         <Item LanID="ENG">WN7</Item>
-		<Item LanID="FR">WN7</Item>
         <Item LanID="PL">WN7</Item>
         <Item LanID="SR">WN7</Item>
         <Item LanID="PT">WN7</Item>
         <Item LanID="CZ">WN7</Item>
         <Item LanID="GR">WN7</Item>
+        <Item LanID="FR">WN7</Item>		
       </Field>
       <Field Name="STR_WN8_Caption" DefaultLanID="ENG">
         <Item LanID="ENG">WN8</Item>
-		<Item LanID="FR">WN8</Item>
         <Item LanID="PL">WN8</Item>
         <Item LanID="SR">WN8</Item>
         <Item LanID="PT">WN8</Item>
         <Item LanID="CZ">WN8</Item>
         <Item LanID="GR">WN8</Item>
+		<Item LanID="FR">WN8</Item>	
       </Field>
       <Field Name="STR_WOTSTATSLINK" DefaultLanID="ENG">
         <Item LanID="ENG">vBAddict Website</Item>
-		<Item LanID="FR">vBAddict Website</Item>
         <Item LanID="PL">Strona vBAddict</Item>
         <Item LanID="SR">vBAddict Website</Item>
         <Item LanID="IT">Sito web di vBAddict</Item>
         <Item LanID="PT">Site vBAddict</Item>
         <Item LanID="CZ">vBAddict Internet. stránka</Item>
+		<Item LanID="FR">Site WEB vBAddict</Item>	
       </Field>
       <Field Name="STR_YEAR" DefaultLanID="ENG">
         <Item LanID="ENG">Year</Item>
@@ -4413,11 +4412,11 @@
       </Field>
       <Field Name="TD_SHORT" DefaultLanID="ENG">
         <Item LanID="ENG">TD</Item>
-		<Item LanID="FR">TD</Item>
         <Item LanID="RU">ПТ</Item>
         <Item LanID="PL">TD</Item>
         <Item LanID="SR">TR</Item>
         <Item LanID="IT">TD</Item>
+        <Item LanID="FR">TD</Item>			
       </Field>
       <Field Name="TOOLTIP_AUTOHIDE" DefaultLanID="ENG">
         <Item LanID="ENG">Auto Hide</Item>
@@ -4443,7 +4442,7 @@
         <Item LanID="SR">Molim sačekajte</Item>
         <Item LanID="FI">Odota</Item>
         <Item LanID="KR">잠시만 기다려 주십시오</Item>
-        <Item LanID="FR">Attendez SVP</Item>
+        <Item LanID="FR">Patientez SVP</Item>
         <Item LanID="IT">Attendere Prego</Item>
         <Item LanID="NL">Een ogenblik geduld</Item>
         <Item LanID="PT">Aguarde Por Favor</Item>
@@ -4507,7 +4506,7 @@
         <Item LanID="SR">Uredi igrača</Item>
         <Item LanID="FI">Muokkaa pelaajaa</Item>
         <Item LanID="KR">플레이어 편집</Item>
-        <Item LanID="FR">Edition du joueur</Item>
+        <Item LanID="FR">Modification du joueur</Item>
         <Item LanID="IT">Modifica Giocatore</Item>
         <Item LanID="NL">Bewerk speler</Item>
         <Item LanID="PT">Editar Jogador</Item>
