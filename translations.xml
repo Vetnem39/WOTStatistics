@@ -3336,11 +3336,12 @@
         <Item LanID="GR">Φάκελλος αρχείου</Item>
       </Field>
       <Field Name="STR_EUFORMLINK" DefaultLanID="ENG">
-        <Item LanID="ENG">Wsparcie Techniczne</Item>
+        <Item LanID="ENG">Get Support</Item>
         <Item LanID="DE">Unterstützung</Item>
         <Item LanID="SR">Get Support</Item>
         <Item LanID="FR">Support Technique</Item>
-        <Item LanID="IT">Get Support</Item>
+        <Item LanID="PL">Wsparcie Techniczne</Item>
+		<Item LanID="IT">Get Support</Item>
         <Item LanID="PT">Pedir Ajuda</Item>
         <Item LanID="CZ">Podpora</Item>
       </Field>
