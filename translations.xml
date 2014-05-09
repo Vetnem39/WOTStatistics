@@ -391,7 +391,7 @@
         <Item LanID="SR">Koristi Dosije sharing</Item>
         <Item LanID="FI">Salli Dossier jako</Item>
         <Item LanID="KR">Dossier 공유 사용</Item>
-        <Item LanID="FR">Autoriser le partage de dossier</Item>
+        <Item LanID="FR">Autoriser le partage du Dossier</Item>
         <Item LanID="IT">Consenti la Condivisione del Dossier</Item>
         <Item LanID="NL">Sta Dossier delen toe</Item>
         <Item LanID="PT">Permitir o Compartilhamento do Dossiêr</Item>
@@ -498,7 +498,7 @@
         <Item LanID="SR">Nadgledaj dosije prilikom pokretanja</Item>
         <Item LanID="FI">Dossier seuranta käynnistettäessä</Item>
         <Item LanID="KR">시작 시 모니터링 시작</Item>
-        <Item LanID="FR">Contrôle du dossier au démarrage</Item>
+        <Item LanID="FR">Contrôle du Dossier au démarrage</Item>
         <Item LanID="IT">Controllo Dossier All'Avvio</Item>
         <Item LanID="NL">Dossier monitoren als programma start</Item>
         <Item LanID="PT">Monotorização do Dossier no Início do Programa</Item>
@@ -576,7 +576,7 @@
         <Item LanID="SR">Pošalji Dosije fajl ka World of Tanks Performance Analzyer and Statistics Site</Item>
         <Item LanID="FI">Lähetä dossier tiedosto World of Tanks suorituskyky analysointi ja tilasto sivulle </Item>
         <Item LanID="KR">Dossier 파일을 능률 분석 및 통계 사이트로 전송</Item>
-        <Item LanID="FR">Soumettre le fichier Dossier au site World of Tanks Performance Analyser and Statistics</Item>
+        <Item LanID="FR">Soumettre le fichier Dossier au site World of Tanks Performance Analyzer and Statistics</Item>
         <Item LanID="IT">Sottoponi il file del dossier all'analizzatore di Prestazioni e Statistiche del sito di World of Tanks</Item>
         <Item LanID="NL">Dossier indienen bij de 'World of Tanks Prestatie Analyze en Statistieken' website</Item>
         <Item LanID="PT">Enviar ficheiro do dossier para o Analisador de Desempenho e Site de Estatísticas</Item>
@@ -608,7 +608,7 @@
         <Item LanID="SR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="FI">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="KR">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
-        <Item LanID="FR">Soumettre le fichier Dossier, et les résultats de batailles et replays au site vBAddict.net</Item>
+        <Item LanID="FR">Soumettre le fichier Dossier, les résultats de batailles et Replays au site vBAddict.net</Item>
         <Item LanID="IT">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="NL">Submit Dossier file, Battle Results and Replays to vBAddict.net</Item>
         <Item LanID="PT">Enviar dossier,resultados de batalha e repalys para vBAddict.net</Item>
@@ -746,7 +746,7 @@
         <Item LanID="SR">Prosečno iskustvo</Item>
         <Item LanID="FI">Keskimääräinen kokemus</Item>
         <Item LanID="KR">평균 경험치</Item>
-        <Item LanID="FR">Experience moyenne par Bataille</Item>
+        <Item LanID="FR">Expérience moyenne par bataille</Item>
         <Item LanID="IT">Media Esperienza</Item>
         <Item LanID="NL">Gemiddelde ervaring</Item>
         <Item LanID="PT">Experiência Média</Item>
@@ -2939,7 +2939,7 @@
         <Item LanID="SR">Da li ste sigurni da želite da obrišete listu skorašnjih bitaka?</Item>
         <Item LanID="FI">Oletko varma, että haluat tyhjentää viimeiset taistelu listan?</Item>
         <Item LanID="KR">정말 최근 전투 기록을 초기화 하시겠습니까?</Item>
-        <Item LanID="FR">Etes vous sûr de vouloir effacer votre liste de bataille récentes ?</Item>
+        <Item LanID="FR">Etes-vous sûr de vouloir effacer votre liste de batailles récentes ?</Item>
         <Item LanID="IT">Sei sicuro di voler cancellare la lista delle battaglie recenti?</Item>
         <Item LanID="NL">Weet je zeker dat je de lijst met recente gevechten wilt wissen?</Item>
         <Item LanID="PT">Tem certeza de que deseja limpar sua lista de batalhas recentes?</Item>
@@ -3313,7 +3313,7 @@
         <Item LanID="SR">Praćenje dosijea</Item>
         <Item LanID="FI">Dossier seuranta</Item>
         <Item LanID="KR">Dossier 모니터링</Item>
-        <Item LanID="FR">Surveillance du fichier Dossier</Item>
+        <Item LanID="FR">Surveillance du Dossier</Item>
         <Item LanID="IT">Controllo Dossier</Item>
         <Item LanID="NL">Dossier monitor</Item>
         <Item LanID="PT">Monitor de Processo</Item>
@@ -3461,7 +3461,7 @@
         <Item LanID="RU">Формула рейтинга</Item>
         <Item LanID="PL">Formuła Obliczeń</Item>
         <Item LanID="SR">Rejting formula</Item>
-        <Item LanID="FR">Formule de classement</Item>
+        <Item LanID="FR">Formule de Classement</Item>
         <Item LanID="IT">Formula Valutazione :</Item>
         <Item LanID="PT">Sistema de Classificação</Item>
         <Item LanID="CZ">Vzorec hodnocení</Item>
@@ -3742,7 +3742,7 @@
         <Item LanID="PL">Nowy Dossier</Item>
         <Item LanID="SR">Novi dosije</Item>
         <Item LanID="FI">uusi Dossier</Item>
-        <Item LanID="FR">Nouveau fichier Dossier</Item>
+        <Item LanID="FR">Nouveau Dossier</Item>
         <Item LanID="IT">Nuovo Dossier</Item>
         <Item LanID="NL">Nieuw dossier</Item>
         <Item LanID="PT">Novo Dossier</Item>
@@ -3767,7 +3767,7 @@
         <Item LanID="PL">Stary Dossier</Item>
         <Item LanID="SR">Stari dosije</Item>
         <Item LanID="FI">Vanha Dossier</Item>
-        <Item LanID="FR">Ancien fichier Dossier</Item>
+        <Item LanID="FR">Ancien Dossier</Item>
         <Item LanID="IT">Vecchio Dossier</Item>
         <Item LanID="NL">Oud Dossier</Item>
         <Item LanID="PT">Dossier Antigo</Item>
@@ -4306,7 +4306,7 @@
         <Item LanID="RU">Просмотр файла</Item>
         <Item LanID="PL">Lokalizacja Pliku Dossier</Item>
         <Item LanID="SR">Dosije fajl</Item>
-        <Item LanID="FR">Fichier Dssier</Item>
+        <Item LanID="FR">Fichier Dossier</Item>
         <Item LanID="IT">File Dossier</Item>
         <Item LanID="NL">Dossier bestand</Item>
         <Item LanID="PT">Arquivo do Dados</Item>
@@ -4361,7 +4361,7 @@
         <Item LanID="ENG">Battle Rating</Item>
         <Item LanID="PL">Rating Bitwy</Item>
         <Item LanID="SR">Battle Rating</Item>
-        <Item LanID="FR">Ratio de bataille</Item>
+        <Item LanID="FR">Ratio de batailles</Item>
         <Item LanID="IT">Battle Rating</Item>
         <Item LanID="PT">Rating{htmlbreak}Batalha</Item>
         <Item LanID="CZ">Battle Rating</Item>
