@@ -158,6 +158,7 @@
       </Field>
       <Field Name="6" DefaultLanID="ENG">
         <Item LanID="ENG">Japan</Item>
+        <Item LanID="PL">Japonia</Item>
         <Item LanID="FR">Japon</Item>
       </Field>
       <Field Name="ARRAY_MONTH_FULL" DefaultLanID="ENG">
@@ -2903,7 +2904,7 @@
       <Field Name="STR_CHARTTANKSAVENOTICE" DefaultLanID="ENG">
         <Item LanID="ENG">Please select tank(s)s to be displayed in the chart.</Item>
         <Item LanID="RU">Выберите танки для отображения в диаграмме</Item>
-        <Item LanID="PL">Wybierz czołki do wyświetlenia na wykresie.</Item>
+        <Item LanID="PL">Wybierz czołgi do wyświetlenia na wykresie.</Item>
         <Item LanID="SR">Molim odaberite tenk(ove) koji će biti prikazani na grafikonu</Item>
         <Item LanID="FI">Valitse tankki(t) jotka näytetään taulukossa.</Item>
         <Item LanID="KR">도표에 표시될 전차를 선택해 주십시오.</Item>
@@ -3341,7 +3342,7 @@
         <Item LanID="SR">Get Support</Item>
         <Item LanID="FR">Support Technique</Item>
         <Item LanID="PL">Wsparcie Techniczne</Item>
-		<Item LanID="IT">Get Support</Item>
+	<Item LanID="IT">Get Support</Item>
         <Item LanID="PT">Pedir Ajuda</Item>
         <Item LanID="CZ">Podpora</Item>
       </Field>
