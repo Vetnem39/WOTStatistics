@@ -4220,7 +4220,7 @@
         <Item LanID="SR">Tenk Info</Item>
         <Item LanID="FI">Tankki kohtaiset tiedot</Item>
         <Item LanID="KR">전차별 정보</Item>
-        <Item LanID="FR">Infos par Char</Item>
+        <Item LanID="FR">Informations par char</Item>
         <Item LanID="IT">Info. Dettaglio Carri</Item>
         <Item LanID="NL">Tank informatie</Item>
         <Item LanID="PT">Informação de Tanque</Item>
@@ -4236,7 +4236,7 @@
         <Item LanID="SR">Tenkovi</Item>
         <Item LanID="FI">Tankki</Item>
         <Item LanID="KR">전차 목록</Item>
-        <Item LanID="FR">Liste des Chars</Item>
+        <Item LanID="FR">Liste des chars</Item>
         <Item LanID="IT">Elenco Carri</Item>
         <Item LanID="NL">Tanks</Item>
         <Item LanID="PT">Tanques</Item>
