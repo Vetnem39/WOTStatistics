@@ -2778,7 +2778,7 @@
         <Item LanID="RU">Сессия №</Item>
         <Item LanID="PL">Sesja #</Item>
         <Item LanID="SR">Sesija #</Item>
-        <Item LanID="FR">Session n°</Item>
+        <Item LanID="FR">Session n° </Item>
         <Item LanID="IT">Sessione n.</Item>
         <Item LanID="PT">Sessão #</Item>
         <Item LanID="CZ">Relace #</Item>
@@ -3524,7 +3524,7 @@
         <Item LanID="SR">%s (%d do %d)</Item>
         <Item LanID="FI">%s (%d tonne %d)</Item>
         <Item LanID="KR">%s (%d 일 부터 %d 일 까지)</Item>
-        <Item LanID="FR">%s (%d à %d)</Item>
+        <Item LanID="FR">%s (%d au %d)</Item>
         <Item LanID="IT">%s (%d a %d)</Item>
         <Item LanID="NL">%s (%d tot %d)</Item>
         <Item LanID="PT">%s (%d To %d)</Item>
@@ -3959,7 +3959,7 @@
         <Item LanID="SR">Grupisanje:</Item>
         <Item LanID="FI">Ryhmittely:</Item>
         <Item LanID="KR">그룹화 : </Item>
-        <Item LanID="FR">Regroupement :</Item>
+        <Item LanID="FR">Regroupement</Item>
         <Item LanID="IT">Raggruppamenti:</Item>
         <Item LanID="NL">Groepering:</Item>
         <Item LanID="PT">Agrupamento:</Item>
@@ -3972,7 +3972,7 @@
         <Item LanID="RU">Первая сессия</Item>
         <Item LanID="PL">Pierwsza sesja</Item>
         <Item LanID="SR">Prva sesija</Item>
-        <Item LanID="FR">Première Session</Item>
+        <Item LanID="FR">Première session</Item>
         <Item LanID="IT">Prima sessione</Item>
         <Item LanID="PT">Primeira sessão</Item>
         <Item LanID="CZ">První</Item>
@@ -3982,7 +3982,7 @@
         <Item LanID="RU">Перейти к</Item>
         <Item LanID="PL">Przejdź do</Item>
         <Item LanID="SR">Idi na</Item>
-        <Item LanID="FR">Aller à :</Item>
+        <Item LanID="FR">Aller à</Item>
         <Item LanID="IT">Vai A</Item>
         <Item LanID="PT">Ir Para</Item>
         <Item LanID="CZ">Jdi na</Item>
@@ -3992,7 +3992,7 @@
         <Item LanID="RU">Последняя сессия</Item>
         <Item LanID="PL">Ostatnia sesja</Item>
         <Item LanID="SR">Poslednja sesija</Item>
-        <Item LanID="FR">Dernière Session :</Item>
+        <Item LanID="FR">Dernière session</Item>
         <Item LanID="IT">Ultima sessione</Item>
         <Item LanID="CZ">Poslední</Item>
       </Field>
@@ -4001,7 +4001,7 @@
         <Item LanID="RU">Следующая сессия</Item>
         <Item LanID="PL">Następna sesja</Item>
         <Item LanID="SR">Sledeća sesija</Item>
-        <Item LanID="FR">Session suivante :</Item>
+        <Item LanID="FR">Session suivante</Item>
         <Item LanID="IT">Prossima sessione</Item>
         <Item LanID="PT">Última Sessão</Item>
         <Item LanID="CZ">Další</Item>
@@ -4011,7 +4011,7 @@
         <Item LanID="RU">Предыдущая сессия</Item>
         <Item LanID="PL">Poprzednia sesja</Item>
         <Item LanID="SR">Prethodna sesija</Item>
-        <Item LanID="FR">Session précédente :</Item>
+        <Item LanID="FR">Session précédente</Item>
         <Item LanID="IT">Sessione precedente</Item>
         <Item LanID="PT">Sessão Anterior</Item>
         <Item LanID="CZ">Předchozí</Item>
@@ -4021,7 +4021,7 @@
         <Item LanID="RU">Новая сессия</Item>
         <Item LanID="PL">Rozpocznij Nową Sesję</Item>
         <Item LanID="SR">Kreiraj novu sesiju</Item>
-        <Item LanID="FR">Commencer une nouvelle session :</Item>
+        <Item LanID="FR">Commencer une nouvelle session</Item>
         <Item LanID="IT">Inizia Nuova Sessione</Item>
         <Item LanID="PT">Iniciar Nova Sessão</Item>
         <Item LanID="CZ">Začít novou relaci</Item>
@@ -4162,7 +4162,7 @@
         <Item LanID="SR">borbi</Item>
         <Item LanID="FI">Taistelut</Item>
         <Item LanID="KR">전투</Item>
-        <Item LanID="FR">Batailles</Item>
+        <Item LanID="FR">batailles</Item>
         <Item LanID="IT">battaglia(e)</Item>
         <Item LanID="NL">gevechten</Item>
         <Item LanID="PT">batalhas</Item>
